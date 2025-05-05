@@ -2,7 +2,7 @@ Title: Satin Noir
 
 ----
 
-Hybridization: 9e9fad7d-b08f-4064-83b1-52d32fca0b14, 39299c06-529a-4f18-92c2-03be5a21d94c
+Hybridization: Cabernet Sauvignon, Resistenzpartner
 
 ----
 
@@ -42,8 +42,8 @@ Cover: - 'file://PlDu4UJoFjGXdtQF'
 
 Criterias:
 
-aeedea0b-3aba-4249-bb4d-15db60026741:
-  c2f057a0-4147-4441-8869-7e80761ecbfc:
+Resistenz:
+  Widerstandsfähigkeit:
     value:
       peronospora: 3
       oidium: 3

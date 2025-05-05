@@ -2,7 +2,7 @@ Title: Cabernet Blanc
 
 ----
 
-Hybridization: 9e9fad7d-b08f-4064-83b1-52d32fca0b14, be541566-9e65-41ec-a7fb-f285d394d722
+Hybridization: Cabernet Sauvignon, Regent
 
 ----
 
@@ -42,8 +42,8 @@ Cover: - 'file://bcjW8LGoJudUMUKv'
 
 Criterias:
 
-aeedea0b-3aba-4249-bb4d-15db60026741:
-  c2f057a0-4147-4441-8869-7e80761ecbfc:
+Resistenz:
+  Widerstandsfähigkeit:
     value:
       peronosporaTolerance: false
       peronospora: 3
@@ -54,159 +54,159 @@ aeedea0b-3aba-4249-bb4d-15db60026741:
     sources:
       - 89e9fde3-b77f-426f-8ae7-5504190a5b30
     compares: []
-  d19ef357-1596-478f-a6e3-b00a36fbf83d:
+  Anfälligkeitsstadien:
     value: null
     sources: []
     compares: []
-  30e3717a-6294-45e5-a8e0-c7321720596a:
+  Traube:
     value: null
     sources: []
     compares: []
-  442fe484-b8e4-44fd-bdbf-689375f0f166:
+  Blatt:
     value: null
     sources: []
     compares: []
-66bd8ab0-6cc4-46e9-8130-89fd72829abf:
-  c88c417f-6be5-44b4-a474-9256223a0342:
+Anbau:
+  Standortempfehlung:
     value: null
     sources: []
     compares: []
-  40c256ff-10d2-4d5f-ba48-5990d749cfc3:
+  PSM:
     value: |
       In guten Jahren sind 2 Behandlungen, in schwierigen Jahren bis 6 Behandlungen notwendig (siehe auch Widerstandsfähigkeit).
     sources:
       - 08ac9e47-ef06-4e40-b1fa-7bab598b3fbb
     compares: []
-  3ae21351-c203-4add-bc75-c02539a5f596:
+  Besonderheiten:
     value: null
     sources: []
     compares: []
-  d44809ef-9291-4b10-8529-7f58017b29d5:
+  'Wüchsigkeit ':
     value: null
     sources: []
     compares: []
-  9e0f0f3a-2eaf-476a-b6ce-38cd2bff241b:
+  Geiztriebbildung:
     value: b4b3aa99-e6b0-401a-8008-7bdcf6a24d49
     sources:
       - 89e9fde3-b77f-426f-8ae7-5504190a5b30
       - 3584fbd8-9d16-438d-a7a5-e5359a743e70
     compares: []
-  182161b1-37c7-45b2-a1df-6699a09d7d1b:
+  Austrieb:
     value:
       - 2206471b-4b0b-4c27-a0d2-1cdfd8805b22
     sources:
       - b22148ab-2d22-44a5-a523-485191fd4c02
     compares: []
-  572b3578-4fa6-4dc4-b716-c3ef77c86c7b:
+  Blatt:
     value: '<p>Ein typisches Cabernet Sauvignon Blatt, da fünfeckig mit 5 Lappen. </p>'
     sources: []
     compares: []
-  96ed5446-8ca1-4b08-b3ca-3b6d46455bf1:
+  Traube:
     value: '<p>Die Traube ist groß, geschultert, sehr lockerbeerig, luftig und leicht abtrocknend, was sich positiv auf die Widerstandsfähigkeit gegen Botrytis auswirkt.  </p>'
     sources:
       - d81ad352-abf9-4f68-bf9b-16bd852b8d46
     compares: []
-  93c4312e-814c-42c2-93cf-a69f5d5d9bf1:
+  Traubenstruktur:
     value:
       - 476d4b16-8e33-4f7e-8cea-19eec77bdfa0
     sources:
       - 3584fbd8-9d16-438d-a7a5-e5359a743e70
     compares: []
-  37f89954-8e2b-4f41-84af-313c284f2657:
+  Beeren:
     value: '<p>Die Weinbeeren sind klein und rund, gemischtbeerig, d.h. normalgroße und jungfernfrüchtige Beeren befinden sich nebeneinander. Durch dieses Verrieseln sind die Rispen sehr lockerbeerig, was sich positiv auf die Botrytisresistenz auswirkt. Die Beeren sind nahezu kernlos und besonders die kernlosen Beeren weisen einen sehr hohen Zuckergehalt auf. Vor der vollständigen Reife sind die Beeren dunkelgrün und wirken lange unreif.  Bei Beginn der Reife, ca. Anfang Oktober, färben sich die Früchte gelb. Beerengröße eher klein, je nach Jahrgang vier Jungfernfrüchte. </p>'
     sources:
       - 89e9fde3-b77f-426f-8ae7-5504190a5b30
       - 3584fbd8-9d16-438d-a7a5-e5359a743e70
     compares: []
-  087127be-70b8-4de9-99be-b1bc1fa2f5df:
+  Verrieselungsneigung:
     value:
       - 7bcb78c2-9486-40fb-9604-047ad2598cb9
     sources:
       - 89e9fde3-b77f-426f-8ae7-5504190a5b30
     compares: []
-  bae16de0-d186-428c-a8fa-6a791a4330ff:
+  Stiellähme:
     value:
       - fbbe7537-46d7-4586-803d-62741d1850f0
     sources:
       - b22148ab-2d22-44a5-a523-485191fd4c02
     compares: []
-  063eabbc-9625-4c44-acb5-aaa117f7cbe4:
+  Reife:
     value: '<p>Bis zur vollständigen Reife sind die Beeren dunkelgrün und wirken lange unreif.  Erst bei Beginn der Endreife, ca. Anfang Oktober färben sie sich gelb. </p>'
     sources:
       - 89e9fde3-b77f-426f-8ae7-5504190a5b30
       - d81ad352-abf9-4f68-bf9b-16bd852b8d46
     compares:
       b820ced1-6a52-4f8d-9346-b70784febb62: '<p>Die Reife ist ähnlich dem Riesling </p>'
-  2f4fe39d-6916-4bbb-96bc-afa2f927dc8a:
+  Lese:
     value: '<p>Diese Rebsorte eignet sich aufgrund ihrer überdurchschnittlichen dicken Beerenhäute für einen späten Lesezeitpunkt.  Jung bzw. mittelreif gelesen, ermöglicht die Beeren dieser Rebsorte grün-grasige bzw. vegetabile Aromen, dazu kommen auch Aromen von Stachelbeere und/oder Artischocke. Vollreif gelesen, zeigt die Sorte gern exotische Früchte wie Maracuja oder Litschi. </p>'
     sources:
       - 88d3942a-67e2-4a8e-826f-501e628081ac
     compares: []
-  07fa6cda-cf20-4c75-aa05-2d94500ed9b7:
+  Ertrag:
     value: |-
       Wegen der starken Verrieselungsneigung können die Erträge je nach Standort sehr unterschiedlich sein.
       Ertragsreduzierungen sollten bis nach der Blüte abgewartet werden, um sich am "sichtbaren" Ertragsniveau zu orientieren.
     sources:
       - 3584fbd8-9d16-438d-a7a5-e5359a743e70
     compares: []
-  0e69adaf-84ce-4472-9e16-5a51c2438c9f:
+  'Sonstige Angaben':
     value: 'Die Winterfrostigkeit ist sehr gut - vergleichbar mit Riesling.'
     sources:
       - d81ad352-abf9-4f68-bf9b-16bd852b8d46
     compares: []
-  3747edda-c5f7-4b7b-b241-e344b6da1802:
+  Blüte:
     value: null
     sources: []
     compares: []
-205a4330-4480-4102-b89e-6116c17b3b80:
-  34c6c6d1-c6b3-42c9-bbd8-bf1f8f300ae9:
+Ausbau:
+  Säure:
     value: null
     sources: []
     compares: []
-  e5f09a3f-fc78-4a69-beb3-df3eeeeb8fd0:
+  Geschmack:
     value: '<p>Der Geschmack ist häufig mit Riesling und Sauvignon Blanc vergleichbar.</p>'
     sources:
       - 3584fbd8-9d16-438d-a7a5-e5359a743e70
     compares:
       b820ced1-6a52-4f8d-9346-b70784febb62: ''
       7d1e5349-f93b-4dba-8e7f-f78a1834d165: ''
-  3afc5f29-5a03-46c8-86e5-df5484ed26fd:
+  'Ausbaustrategien im Einsatz':
     value: []
     sources: []
     compares: []
-  14108793-fef9-4ea8-85b7-21903ddfa85d:
+  Weinstil:
     value: |
       Exotische oder grüne Note möglich
     sources: []
     compares: []
-  a57c8943-d2ec-40d3-b237-2f405b597bb9:
+  'Oenologische Stilistik':
     value: '<p>Für eine grüne Note: längere Standzeit der Maische, dadurch Förderung der grünen Paprikanote (Pyrazine). Für eine exotische Note: Zugabe von Antioxidationsmitteln wie SO2 und Ascorbinsäure, da Thiole oxidationsanfällig sind. Vergären mit einem Hefestamm, der Thiole freisetzt; dadurch Förderung der exotischen Note. </p>'
     sources:
       - b22148ab-2d22-44a5-a523-485191fd4c02
     compares: []
-  ffac7fac-02b0-4284-a005-114650077c1a:
+  'Senorische Beschreibung':
     value: |
       Der Wein erinnert schon im Duft an einen eleganten Sauvignon Blanc. Bei mittlere Reife gelesen und reduktiv im Stahltank ausgebaut, zeigen die Weine eine vegetabile, würzige Aromatik von grünem Gras, Stachelbeere, Artischocke, schwarzer Johannisbeere und rauchigen Aromen. Erreichen die Trauben Vollreife, ist die Sensorik von reifer Maracuja, Litschi, roter Paprika und würzigen Wiesenkräutern geprägt.
     sources:
       - 3584fbd8-9d16-438d-a7a5-e5359a743e70
     compares: []
-2f368492-66a2-4f6b-baec-efba12a95ed1:
-  c2d700a2-871a-43bd-a0ca-d1e8db092621:
+Rebschulen:
+  Deutschland:
     value: '<p>Rebschule Freytag, 67435 Neustadt/Wstr.; Antes Weinbau-Service GmbH, 64646 Heppenheim;</p>'
     sources: []
     compares: []
-  4ef2e95f-531b-4dcc-a36c-d762f8753640:
+  Österreich:
     value: null
     sources: []
     compares: []
-27b11ebf-009e-4468-bdff-d0124cf815a4:
-  67c0df72-a4fe-4404-8328-1873b42c7e31:
+Anbaufläche:
+  Deutschland:
     value: '<p>260 Hektar (2022), 335 Hektar (2025)</p>'
     sources:
       - 643350c8-da79-4a09-9857-bbb4d18598b3
       - 093421b8-ffba-461d-a669-800169341bd9
     compares: []
-  17a03a94-2f7f-44f3-a712-181f54690f1c:
+  Europa:
     value: []
     sources: []
     compares: []

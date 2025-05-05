@@ -2,7 +2,7 @@ Title: Sauvignac
 
 ----
 
-Hybridization: 006de68b-5f80-414b-b790-89f8ee1f6f79, b820ced1-6a52-4f8d-9346-b70784febb62, 39299c06-529a-4f18-92c2-03be5a21d94c
+Hybridization: Sauvignon, Riesling, Resistenzpartner
 
 ----
 
@@ -45,8 +45,8 @@ Cover: - 'file://H3Dgc26IuFMEp4KH'
 
 Criterias:
 
-aeedea0b-3aba-4249-bb4d-15db60026741:
-  c2f057a0-4147-4441-8869-7e80761ecbfc:
+Resistenz:
+  Widerstandsfähigkeit:
     value:
       peronosporaTolerance: true
       oidiumTolerance: true
@@ -56,8 +56,8 @@ aeedea0b-3aba-4249-bb4d-15db60026741:
       - 89e9fde3-b77f-426f-8ae7-5504190a5b30
     compares:
       58a7ab4d-80e5-456d-bd20-bf152457a283: Test
-66bd8ab0-6cc4-46e9-8130-89fd72829abf:
-  d44809ef-9291-4b10-8529-7f58017b29d5:
+Anbau:
+  'Wüchsigkeit ':
     value:
       - 7d819fea-e6a4-41ef-a6a8-7b625add439a
     sources: []

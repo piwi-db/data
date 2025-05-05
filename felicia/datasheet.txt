@@ -2,7 +2,7 @@ Title: Felicia
 
 ----
 
-Hybridization: 8c3207ec-8971-446a-9e13-b074fd73e5a6, 04100b61-7bba-40b3-ba0c-12462c372970
+Hybridization: Sirius, Vidal Blanc
 
 ----
 
@@ -48,8 +48,8 @@ Cover: - 'file://au5oUrjT4Y8aCp5h'
 
 Criterias:
 
-aeedea0b-3aba-4249-bb4d-15db60026741:
-  c2f057a0-4147-4441-8869-7e80761ecbfc:
+Resistenz:
+  Widerstandsfähigkeit:
     value:
       peronospora: 2
       peronosporaTolerance: false
@@ -62,7 +62,7 @@ aeedea0b-3aba-4249-bb4d-15db60026741:
     sources:
       - 3a4a6a75-528f-4765-aff5-c083ff74742b
     compares: []
-  d19ef357-1596-478f-a6e3-b00a36fbf83d:
+  Anfälligkeitsstadien:
     value:
       - f439cbe2-f605-4304-81f3-903d44bca9a4
       - 88667ea4-4492-4db2-a275-de79938ac318

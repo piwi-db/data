@@ -2,7 +2,7 @@ Title: Accent
 
 ----
 
-Hybridization: 97c48993-6ec0-4eea-ac88-c1b02189fc2f, 629a0ac3-d4dc-43f9-9102-3f1811b35937
+Hybridization: Kolor, Chancellor
 
 ----
 
@@ -36,45 +36,45 @@ Cover: - 'file://UiEdKp1BaVjZu3Bq'
 
 Criterias:
 
-aeedea0b-3aba-4249-bb4d-15db60026741:
-  c2f057a0-4147-4441-8869-7e80761ecbfc:
+Resistenz:
+  Widerstandsfähigkeit:
     value:
       oidium: 3
       botrytis: 3
       peronospora: 2
     sources: []
     compares: []
-66bd8ab0-6cc4-46e9-8130-89fd72829abf:
-  d44809ef-9291-4b10-8529-7f58017b29d5:
+Anbau:
+  'Wüchsigkeit ':
     value:
       - 4b3018cf-d800-4d61-b1c8-2da11315f7a1
     sources: []
     compares: []
-  9e0f0f3a-2eaf-476a-b6ce-38cd2bff241b:
+  Geiztriebbildung:
     value: 8fbbc639-b7b1-4bba-be46-0e52c77ae419
     sources: []
     compares: []
-  182161b1-37c7-45b2-a1df-6699a09d7d1b:
+  Austrieb:
     value: null
     sources: []
     compares: []
-  572b3578-4fa6-4dc4-b716-c3ef77c86c7b:
+  Blatt:
     value: null
     sources: []
     compares: []
-  96ed5446-8ca1-4b08-b3ca-3b6d46455bf1:
+  Traube:
     value: null
     sources: []
     compares: []
-  37f89954-8e2b-4f41-84af-313c284f2657:
+  Beeren:
     value: null
     sources: []
     compares: []
-  063eabbc-9625-4c44-acb5-aaa117f7cbe4:
+  Reife:
     value: null
     sources: []
     compares: []
-  3747edda-c5f7-4b7b-b241-e344b6da1802:
+  Blüte:
     value: null
     sources: []
     compares: []

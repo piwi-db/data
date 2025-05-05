@@ -2,7 +2,7 @@ Title: Sauvitage
 
 ----
 
-Hybridization: 9a191bb0-dbed-4797-9026-84200a3e0b34, af0a1174-a806-4d4f-9c6c-558f10e28dca
+Hybridization: FR 147-66, We 75-34-13
 
 ----
 
@@ -45,8 +45,8 @@ Cover: - 'file://qB615e8BrWDrxi7T'
 
 Criterias:
 
-aeedea0b-3aba-4249-bb4d-15db60026741:
-  c2f057a0-4147-4441-8869-7e80761ecbfc:
+Resistenz:
+  Widerstandsfähigkeit:
     value:
       peronospora: 3
       oidium: 2

@@ -2,7 +2,7 @@ Title: Fidelio
 
 ----
 
-Hybridization: 336f7a50-59ce-4590-8f6c-1a43859719b1, 096b9c81-0e95-4f4a-9e07-a9fea5c6174c
+Hybridization: Ehrenbreitsteiner, Fr 52-64
 
 ----
 
@@ -42,8 +42,8 @@ Cover: - 'file://0KMUS7mj4SrOg8fy'
 
 Criterias:
 
-aeedea0b-3aba-4249-bb4d-15db60026741:
-  c2f057a0-4147-4441-8869-7e80761ecbfc:
+Resistenz:
+  Widerstandsfähigkeit:
     value:
       peronospora: 2
       oidium: 2
