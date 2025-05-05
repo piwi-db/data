@@ -1,1 +1,59 @@
-VGl0bGU6IENhYmVybmV0IENvcnRpcwoKLS0tLQoKSHlicmlkaXphdGlvbjogOWU5ZmFkN2QtYjA4Zi00MDY0LTgzYjEtNTJkMzJmY2EwYjE0LCA3Y2QxMWYwNi02NWU3LTQ0NGItYjUwYi0xZmY1ZWY4YmNmZjEKCi0tLS0KCkh5YnJpZGl6YXRpb255ZWFyOiAxOTgyCgotLS0tCgpHcm93ZXI6IDxwPk5vcmJlcnQgQmVja2VyLCBXQkkgRnJlaWJ1cmc8L3A+CgotLS0tCgpDcHZyZGU6IDIwMDQKCi0tLS0KCkNwdnJldTogCgotLS0tCgpSZXNpc3RhbmNlbG9jaToKCi0KICBnZW5lOiByZW4KICBsb2NpOiAzLjAKLQogIGdlbmU6IHJlbgogIGxvY2k6IDkuMAotCiAgZ2VuZTogcnB2CiAgbG9jaTogMy4zCi0KICBnZW5lOiBycHYKICBsb2NpOiAxMC4wCgotLS0tCgpDb3ZlcjogLSAnZmlsZTovL2I1bk5RS2szeEJ3VVBKMmknCgotLS0tCgpDcml0ZXJpYXM6CgphZWVkZWEwYi0zYWJhLTQyNDktYmI0ZC0xNWRiNjAwMjY3NDE6CiAgYzJmMDU3YTAtNDE0Ny00NDQxLTg4NjktN2U4MDc2MWVjYmZjOgogICAgdmFsdWU6CiAgICAgIHBlcm9ub3Nwb3JhOiAzCiAgICAgIG9pZGl1bTogMwogICAgICBib3RyeXRpczogMwogICAgc291cmNlczogW10KICAgIGNvbXBhcmVzOiBbXQoKLS0tLQoKVXVpZDogb0FJaVUzbVpmQU5rWmowbQ==
+Title: Cabernet Cortis
+
+----
+
+Hybridization: 9e9fad7d-b08f-4064-83b1-52d32fca0b14, 7cd11f06-65e7-444b-b50b-1ff5ef8bcff1
+
+----
+
+Hybridizationyear: 1982
+
+----
+
+Grower: <p>Norbert Becker, WBI Freiburg</p>
+
+----
+
+Cpvrde: 2004
+
+----
+
+Cpvreu: 
+
+----
+
+Resistanceloci:
+
+-
+  gene: ren
+  loci: 3.0
+-
+  gene: ren
+  loci: 9.0
+-
+  gene: rpv
+  loci: 3.3
+-
+  gene: rpv
+  loci: 10.0
+
+----
+
+Cover: - 'file://b5nNQKk3xBwUPJ2i'
+
+----
+
+Criterias:
+
+aeedea0b-3aba-4249-bb4d-15db60026741:
+  c2f057a0-4147-4441-8869-7e80761ecbfc:
+    value:
+      peronospora: 3
+      oidium: 3
+      botrytis: 3
+    sources: []
+    compares: []
+
+----
+
+Uuid: oAIiU3mZfANkZj0m

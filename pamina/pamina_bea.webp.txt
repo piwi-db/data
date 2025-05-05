@@ -1,1 +1,5 @@
-VXVpZDogY2tBVWNpV3g2SDJBaVNYegoKLS0tLQoKVGVtcGxhdGU6IGRhdGFzaGVldEltYWdl
+Uuid: ckAUciWx6H2AiSXz
+
+----
+
+Template: datasheetImage

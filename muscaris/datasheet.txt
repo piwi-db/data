@@ -1,1 +1,47 @@
-VGl0bGU6IE11c2NhcmlzCgotLS0tCgpIeWJyaWRpemF0aW9uOiA3Y2QxMWYwNi02NWU3LTQ0NGItYjUwYi0xZmY1ZWY4YmNmZjEsIDMxMGYxMGUxLTA5NjEtNDg4NC05MzNkLTg4NWJmMTZkYjJmOQoKLS0tLQoKSHlicmlkaXphdGlvbnllYXI6IDE5ODcKCi0tLS0KCkdyb3dlcjogTm9yYmVydCBCZWNrZXIsIFdCSSBGcmVpYnVyZwoKLS0tLQoKQ3B2cmRlOiAyMDEyCgotLS0tCgpDcHZyZXU6IAoKLS0tLQoKUmVzaXN0YW5jZWxvY2k6CgotCiAgZ2VuZTogcmVuCiAgbG9jaTogMy4wCi0KICBnZW5lOiByZW4KICBsb2NpOiA5LjAKLQogIGdlbmU6IHJwdgogIGxvY2k6IDEwLjAKCi0tLS0KCkNvdmVyOiAtICdmaWxlOi8vQzJKcktRa3QxdVFWcXRORycKCi0tLS0KCkNyaXRlcmlhczogW10KCi0tLS0KClV1aWQ6IEZieDJWZ1dLU2c0SFhiMG0=
+Title: Muscaris
+
+----
+
+Hybridization: 7cd11f06-65e7-444b-b50b-1ff5ef8bcff1, 310f10e1-0961-4884-933d-885bf16db2f9
+
+----
+
+Hybridizationyear: 1987
+
+----
+
+Grower: Norbert Becker, WBI Freiburg
+
+----
+
+Cpvrde: 2012
+
+----
+
+Cpvreu: 
+
+----
+
+Resistanceloci:
+
+-
+  gene: ren
+  loci: 3.0
+-
+  gene: ren
+  loci: 9.0
+-
+  gene: rpv
+  loci: 10.0
+
+----
+
+Cover: - 'file://C2JrKQkt1uQVqtNG'
+
+----
+
+Criterias: []
+
+----
+
+Uuid: Fbx2VgWKSg4HXb0m

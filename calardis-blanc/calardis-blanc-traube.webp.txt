@@ -1,1 +1,17 @@
-RGVzY3JpcHRpb246IAoKLS0tLQoKQWx0OiAKCi0tLS0KCkNvcHlyaWdodDogSnVsaXVzIEvDvGhuLUluc3RpdHV0LCBTaWViZWxkaW5nZW4KCi0tLS0KClV1aWQ6IG1PYWRUZjMyV2E5N3VnREMKCi0tLS0KClRlbXBsYXRlOiBkYXRhc2hlZXRJbWFnZQ==
+Description: 
+
+----
+
+Alt: 
+
+----
+
+Copyright: Julius Kühn-Institut, Siebeldingen
+
+----
+
+Uuid: mOadTf32Wa97ugDC
+
+----
+
+Template: datasheetImage

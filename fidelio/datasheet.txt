@@ -1,1 +1,56 @@
-VGl0bGU6IEZpZGVsaW8KCi0tLS0KCkh5YnJpZGl6YXRpb246IDMzNmY3YTUwLTU5Y2UtNDU5MC04ZjZjLTFhNDM4NTk3MTliMSwgMDk2YjljODEtMGU5NS00ZjRhLTllMDctYTlmZWE1YzYxNzRjCgotLS0tCgpIeWJyaWRpemF0aW9ueWVhcjogMTk4MQoKLS0tLQoKR3Jvd2VyOiBIZWxtdXQgQmVja2VyLCBIR1UgR2Vpc2VuaGVpbQoKLS0tLQoKQ3B2cmRlOiAyMDIyCgotLS0tCgpDcHZyZXU6IAoKLS0tLQoKUmVzaXN0YW5jZWxvY2k6CgotCiAgZ2VuZTogcmVuCiAgbG9jaTogMy4wCi0KICBnZW5lOiByZW4KICBsb2NpOiA5LjAKLQogIGdlbmU6IHJwdgogIGxvY2k6IDMuMQoKLS0tLQoKQ292ZXI6IC0gJ2ZpbGU6Ly8wS01VUzdtajRTck9nOGZ5JwoKLS0tLQoKQ3JpdGVyaWFzOgoKYWVlZGVhMGItM2FiYS00MjQ5LWJiNGQtMTVkYjYwMDI2NzQxOgogIGMyZjA1N2EwLTQxNDctNDQ0MS04ODY5LTdlODA3NjFlY2JmYzoKICAgIHZhbHVlOgogICAgICBwZXJvbm9zcG9yYTogMgogICAgICBvaWRpdW06IDIKICAgICAgYm90cnl0aXM6IDMKICAgIHNvdXJjZXM6IFtdCiAgICBjb21wYXJlczogW10KCi0tLS0KClV1aWQ6IGRCTFBGZ0xWQ1NnRGxINmw=
+Title: Fidelio
+
+----
+
+Hybridization: 336f7a50-59ce-4590-8f6c-1a43859719b1, 096b9c81-0e95-4f4a-9e07-a9fea5c6174c
+
+----
+
+Hybridizationyear: 1981
+
+----
+
+Grower: Helmut Becker, HGU Geisenheim
+
+----
+
+Cpvrde: 2022
+
+----
+
+Cpvreu: 
+
+----
+
+Resistanceloci:
+
+-
+  gene: ren
+  loci: 3.0
+-
+  gene: ren
+  loci: 9.0
+-
+  gene: rpv
+  loci: 3.1
+
+----
+
+Cover: - 'file://0KMUS7mj4SrOg8fy'
+
+----
+
+Criterias:
+
+aeedea0b-3aba-4249-bb4d-15db60026741:
+  c2f057a0-4147-4441-8869-7e80761ecbfc:
+    value:
+      peronospora: 2
+      oidium: 2
+      botrytis: 3
+    sources: []
+    compares: []
+
+----
+
+Uuid: dBLPFgLVCSgDlH6l

@@ -1,1 +1,59 @@
-VGl0bGU6IFBhbWluYQoKLS0tLQoKSHlicmlkaXphdGlvbjogMmQ4MmQwYzMtNzVkYS00NWEwLWE0OTAtNzUwYmUxMDlmYmRjLCA4OGVhNjBlMi1jOTQwLTRmMjMtOWFhOC1jZWVhNmUzNmU2NzMKCi0tLS0KCkh5YnJpZGl6YXRpb255ZWFyOiAxOTg2CgotLS0tCgpHcm93ZXI6IEhlbG11dCBCZWNrZXIsIEhHVSBHZWlzZW5oZWltCgotLS0tCgpDcHZyZGU6IDIwMjIKCi0tLS0KCkNwdnJldTogCgotLS0tCgpSZXNpc3RhbmNlbG9jaToKCi0KICBnZW5lOiByZW4KICBsb2NpOiAzLjAKLQogIGdlbmU6IHJlbgogIGxvY2k6IDkuMAotCiAgZ2VuZTogcnB2CiAgbG9jaTogMy4zCi0KICBnZW5lOiBycHYKICBsb2NpOiAxMC4wCgotLS0tCgpDb3ZlcjogLSAnZmlsZTovL2NrQVVjaVd4NkgyQWlTWHonCgotLS0tCgpDcml0ZXJpYXM6CgphZWVkZWEwYi0zYWJhLTQyNDktYmI0ZC0xNWRiNjAwMjY3NDE6CiAgYzJmMDU3YTAtNDE0Ny00NDQxLTg4NjktN2U4MDc2MWVjYmZjOgogICAgdmFsdWU6CiAgICAgIHBlcm9ub3Nwb3JhOiAzCiAgICAgIG9pZGl1bTogMwogICAgICBib3RyeXRpczogMwogICAgc291cmNlczogW10KICAgIGNvbXBhcmVzOiBbXQoKLS0tLQoKVXVpZDogRjBrMDRGUW9scENzRkVTbA==
+Title: Pamina
+
+----
+
+Hybridization: 2d82d0c3-75da-45a0-a490-750be109fbdc, 88ea60e2-c940-4f23-9aa8-ceea6e36e673
+
+----
+
+Hybridizationyear: 1986
+
+----
+
+Grower: Helmut Becker, HGU Geisenheim
+
+----
+
+Cpvrde: 2022
+
+----
+
+Cpvreu: 
+
+----
+
+Resistanceloci:
+
+-
+  gene: ren
+  loci: 3.0
+-
+  gene: ren
+  loci: 9.0
+-
+  gene: rpv
+  loci: 3.3
+-
+  gene: rpv
+  loci: 10.0
+
+----
+
+Cover: - 'file://ckAUciWx6H2AiSXz'
+
+----
+
+Criterias:
+
+aeedea0b-3aba-4249-bb4d-15db60026741:
+  c2f057a0-4147-4441-8869-7e80761ecbfc:
+    value:
+      peronospora: 3
+      oidium: 3
+      botrytis: 3
+    sources: []
+    compares: []
+
+----
+
+Uuid: F0k04FQolpCsFESl

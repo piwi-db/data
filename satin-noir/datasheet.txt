@@ -1,1 +1,56 @@
-VGl0bGU6IFNhdGluIE5vaXIKCi0tLS0KCkh5YnJpZGl6YXRpb246IDllOWZhZDdkLWIwOGYtNDA2NC04M2IxLTUyZDMyZmNhMGIxNCwgMzkyOTljMDYtNTI5YS00ZjE4LTkyYzItMDNiZTVhMjFkOTRjCgotLS0tCgpIeWJyaWRpemF0aW9ueWVhcjogMTk5MQoKLS0tLQoKR3Jvd2VyOiA8cD5WYWxlbnRpbiBCbGF0dG5lciAoQ0gpLCBTZWxla3Rpb24gUmVic2NodWxlIEZyZXl0YWcsIE5ldXN0YWR0PC9wPgoKLS0tLQoKQ3B2cmRlOiAyMDE3CgotLS0tCgpDcHZyZXU6IAoKLS0tLQoKUmVzaXN0YW5jZWxvY2k6CgotCiAgZ2VuZTogcmVuCiAgbG9jaTogMy4wCi0KICBnZW5lOiByZW4KICBsb2NpOiA5LjAKLQogIGdlbmU6IHJwdgogIGxvY2k6IDMuMQoKLS0tLQoKQ292ZXI6IC0gJ2ZpbGU6Ly9QbER1NFVKb0ZqR1hkdFFGJwoKLS0tLQoKQ3JpdGVyaWFzOgoKYWVlZGVhMGItM2FiYS00MjQ5LWJiNGQtMTVkYjYwMDI2NzQxOgogIGMyZjA1N2EwLTQxNDctNDQ0MS04ODY5LTdlODA3NjFlY2JmYzoKICAgIHZhbHVlOgogICAgICBwZXJvbm9zcG9yYTogMwogICAgICBvaWRpdW06IDMKICAgICAgYm90cnl0aXM6IDIKICAgIHNvdXJjZXM6IFtdCiAgICBjb21wYXJlczogW10KCi0tLS0KClV1aWQ6IHpxV2U4QUpIMm1WdzlZQ1I=
+Title: Satin Noir
+
+----
+
+Hybridization: 9e9fad7d-b08f-4064-83b1-52d32fca0b14, 39299c06-529a-4f18-92c2-03be5a21d94c
+
+----
+
+Hybridizationyear: 1991
+
+----
+
+Grower: <p>Valentin Blattner (CH), Selektion Rebschule Freytag, Neustadt</p>
+
+----
+
+Cpvrde: 2017
+
+----
+
+Cpvreu: 
+
+----
+
+Resistanceloci:
+
+-
+  gene: ren
+  loci: 3.0
+-
+  gene: ren
+  loci: 9.0
+-
+  gene: rpv
+  loci: 3.1
+
+----
+
+Cover: - 'file://PlDu4UJoFjGXdtQF'
+
+----
+
+Criterias:
+
+aeedea0b-3aba-4249-bb4d-15db60026741:
+  c2f057a0-4147-4441-8869-7e80761ecbfc:
+    value:
+      peronospora: 3
+      oidium: 3
+      botrytis: 2
+    sources: []
+    compares: []
+
+----
+
+Uuid: zqWe8AJH2mVw9YCR

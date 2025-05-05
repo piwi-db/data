@@ -1,1 +1,75 @@
-VGl0bGU6IEZlbGljaWEKCi0tLS0KCkh5YnJpZGl6YXRpb246IDhjMzIwN2VjLTg5NzEtNDQ2YS05ZTEzLWIwNzRmZDczZTVhNiwgMDQxMDBiNjEtN2JiYS00MGIzLWJhMGMtMTI0NjJjMzcyOTcwCgotLS0tCgpIeWJyaWRpemF0aW9ueWVhcjogMTk4NAoKLS0tLQoKR3Jvd2VyOiBSdWRvbGYgRWliYWNoICZhbXA7IFJlaW5oYXJkIFTDtnBmZXIsIEpLSSBTaWViZWxkaW5nZW4KCi0tLS0KCkNwdnJkZTogMjAwNAoKLS0tLQoKQ3B2cmV1OiAKCi0tLS0KClJlc2lzdGFuY2Vsb2NpOgoKLQogIGdlbmU6IHJlbgogIGxvY2k6IDMuMAotCiAgZ2VuZTogcmVuCiAgbG9jaTogOS4wCi0KICBnZW5lOiBycHYKICBsb2NpOiAzLjEKLQogIGdlbmU6IHJlbgogIGxvY2k6IDMuMwotCiAgZ2VuZTogcmdiCiAgbG9jaTogJycKCi0tLS0KCkNvdmVyOiAtICdmaWxlOi8vYXU1b1VyalQ0WThhQ3A1aCcKCi0tLS0KCkNyaXRlcmlhczoKCmFlZWRlYTBiLTNhYmEtNDI0OS1iYjRkLTE1ZGI2MDAyNjc0MToKICBjMmYwNTdhMC00MTQ3LTQ0NDEtODg2OS03ZTgwNzYxZWNiZmM6CiAgICB2YWx1ZToKICAgICAgcGVyb25vc3BvcmE6IDIKICAgICAgcGVyb25vc3BvcmFUb2xlcmFuY2U6IGZhbHNlCiAgICAgIG9pZGl1bTogMgogICAgICBvaWRpdW1Ub2xlcmFuY2U6IHRydWUKICAgICAgYm90cnl0aXM6IDIKICAgICAgYm90cnl0aXNUb2xlcmFuY2U6IHRydWUKICAgICAgYmlkd2VsbGlpOiAyCiAgICAgIGJpZHdlbGxpaVRvbGVyYW5jZTogdHJ1ZQogICAgc291cmNlczoKICAgICAgLSAzYTRhNmE3NS01MjhmLTQ3NjUtYWZmNS1jMDgzZmY3NDc0MmIKICAgIGNvbXBhcmVzOiBbXQogIGQxOWVmMzU3LTE1OTYtNDc4Zi1hNmUzLWIwMGEzNmZiZjgzZDoKICAgIHZhbHVlOgogICAgICAtIGY0MzljYmUyLWY2MDUtNDMwNC04MWYzLTkwM2Q0NGJjYTlhNAogICAgICAtIDg4NjY3ZWE0LTQ0OTItNGRiMi1hMjc1LWRlNzk5MzhhYzMxOAogICAgICAtIGIwZjY2Mjc3LTU5NzktNGY4MS1iZGRmLTk3ZDhjZTA3MjI0ZAogICAgc291cmNlczogW10KICAgIGNvbXBhcmVzOiBbXQoKLS0tLQoKVXVpZDogdHRPVVpmRm1sakdmOGtVaA==
+Title: Felicia
+
+----
+
+Hybridization: 8c3207ec-8971-446a-9e13-b074fd73e5a6, 04100b61-7bba-40b3-ba0c-12462c372970
+
+----
+
+Hybridizationyear: 1984
+
+----
+
+Grower: Rudolf Eibach &amp; Reinhard Töpfer, JKI Siebeldingen
+
+----
+
+Cpvrde: 2004
+
+----
+
+Cpvreu: 
+
+----
+
+Resistanceloci:
+
+-
+  gene: ren
+  loci: 3.0
+-
+  gene: ren
+  loci: 9.0
+-
+  gene: rpv
+  loci: 3.1
+-
+  gene: ren
+  loci: 3.3
+-
+  gene: rgb
+  loci: ''
+
+----
+
+Cover: - 'file://au5oUrjT4Y8aCp5h'
+
+----
+
+Criterias:
+
+aeedea0b-3aba-4249-bb4d-15db60026741:
+  c2f057a0-4147-4441-8869-7e80761ecbfc:
+    value:
+      peronospora: 2
+      peronosporaTolerance: false
+      oidium: 2
+      oidiumTolerance: true
+      botrytis: 2
+      botrytisTolerance: true
+      bidwellii: 2
+      bidwelliiTolerance: true
+    sources:
+      - 3a4a6a75-528f-4765-aff5-c083ff74742b
+    compares: []
+  d19ef357-1596-478f-a6e3-b00a36fbf83d:
+    value:
+      - f439cbe2-f605-4304-81f3-903d44bca9a4
+      - 88667ea4-4492-4db2-a275-de79938ac318
+      - b0f66277-5979-4f81-bddf-97d8ce07224d
+    sources: []
+    compares: []
+
+----
+
+Uuid: ttOUZfFmljGf8kUh

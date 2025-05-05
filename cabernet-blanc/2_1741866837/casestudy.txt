@@ -1,1 +1,134 @@
-VGl0bGU6IDE3NDE4NjY4MzcKCi0tLS0KClJlcG9ydHM6Cgo2NmJkOGFiMC02Y2M0LTQ2ZTktODEzMC04OWZkNzI4MjlhYmY6CiAgM2FlMjEzNTEtYzIwMy00YWRkLWJjNzUtYzAyNTM5YTVmNTk2OgogICAgdmFsdWU6IDx1bD48bGk+PHA+SW5zZ2VzYW10IHZlcnJpbmdlcnQgc2ljaCBkZXIgQXJiZWl0c2F1ZndhbmQgZGVyIExhdWJhcmJlaXRlbgogICAgICBiZWkgdW5zIGJlaSBDYWJlcm5ldCBCbGFuYyB1bSA1MCAlIGdlZ2Vuw7xiZXIgdW5zZXJlbiBrbGFzc2lzY2hlbgogICAgICBSZWJzb3J0ZW4uICA8L3A+PC9saT48bGk+PHA+VmllbCB2ZWdldGF0aXZlcyBXYWNoc3R1bSwgZGFzIHNjaG5lbGwgaW5zCiAgICAgIEhvbHogZ2VodCwgZGFkdXJjaCBhYmVyIGF1Y2ggRXNjYSBhbmbDpGxsaWcgd2llIFNhdXZpZ25vbgogICAgICBCbGFuYy4gIDwvcD48L2xpPjxsaT48cD5FdmVudHVlbGwgYXVmIHp3ZWkgQsO2Z2VuIGF1ZnRlaWxlbi48L3A+PC9saT48L3VsPgogICAgc291cmNlczogW10KICAgIGNvbXBhcmVzOiB7fQogIGM4OGM0MTdmLTZiZTUtNDRiNC1hNDc0LTkyNTYyMjNhMDM0MjoKICAgIHZhbHVlOiA8dWw+PGxpPjxwPkbDvHIgZWluZSBTYXV2aWdub24gQmxhbmMgU3RpbGlzdGlrIHNvbGx0ZSBhdWYgbGVpY2h0ZW0gQm9kZW4KICAgICAgbWl0IGhvaGVtIEthbGtnZWhhbHQgZ2VwZmxhbnp0IHdlcmRlbi4gPC9wPjwvbGk+PC91bD4KICAgIHNvdXJjZXM6IFtdCiAgICBjb21wYXJlczoge30KICBkNDQ4MDllZi05MjkxLTRiMTAtODUyOS03ZjU4MDE3YjI5ZDU6CiAgICB2YWx1ZTogPHVsPjxsaT48cD5DYWJlcm5ldCBCbGFuYyB3w6RjaHN0IGJlaSB1bnMgc2VociBzZW5rcmVjaHQgbWl0IHN0YWJpbGVyCiAgICAgIExhdWJ3YW5kIHVuZCB2aWVsZW4gSGFrZW4uIEVpbiA1MCBjbSBsYW5nZXIgw5xiZXJzdGFuZCBkZXIgTGF1YndhbmQgc3RlbGx0CiAgICAgIGtlaW4gUHJvYmxlbSBkYXIuIEVpbmUgVm9ycmljaHR1bmcgYWxzIFVudGVyc3TDvHR6dW5nIGthbm4gbmllZHJpZ2VyIGFscwogICAgICDDvGJsaWNoIHNlaW4uIDwvcD48L2xpPjwvdWw+CiAgICBzb3VyY2VzOiBbXQogICAgY29tcGFyZXM6IHt9CiAgMTgyMTYxYjEtMzdjNy00NWIyLWExZGYtNjY5OWEwOWQ3ZDFiOgogICAgdmFsdWU6IDx1bD48bGk+PHA+U3DDpHRlciBBdXN0cmllYiwgZC5oLiBldHdhIDEwIFRhZ2UgbmFjaCBDaGFyZG9ubmF5IGJ6dy4gNSBUYWdlCiAgICAgIG5hY2ggTcO8bGxlci1UaHVyZ2F1IHVuZCBHcmF1YnVyZ3VuZGVyLiAgICAgICAgICAgICAgIDwvcD48L2xpPjxsaT48cD5EdXJjaAogICAgICBkZW4gc3DDpHRlbiBBdXN0cmllYiBsaWVndCBDYWJlcm5ldCBpbSBXdWNocyBoaW50ZXIgZGVuIGFuZGVyZW4KICAgICAgU29ydGVuLiAgU29taXQgbXVzcyBkaWVzZSBQSVdJIFJlYnNvcnRlIGF1Y2ggc3DDpHRlciBnZWhlZnRldCB1bmQgZWluCiAgICAgIHNww6R0ZXJlciBMYXVic2Nobml0dCBkdXJjaGdlZsO8aHJ0IHdlcmRlbi4gPC9wPjwvbGk+PC91bD4KICAgIHNvdXJjZXM6IFtdCiAgICBjb21wYXJlczoKICAgICAgY2E1Njg5ZTgtMDU3ZS00NGYyLWIwZjItMTQ3YWViOTg2MzFjOiAiLSBBdXN0cmllYiBjYS4gNSBUYWdlIG5hY2ggTcO8bGxlci1UaHVyZ2F1LiIKICAgICAgYzMxMmYxNjktMWE4MC00YjhkLWI5NGQtODBjMjczMjNkZjg3OiAiLSBBdXN0cmllYiBjYS4gNSBUYWdlIG5hY2ggR3JhdWJ1cmd1bmRlci4iCiAgICAgIDQ0ODQ3ZTk4LTkyY2UtNDUwYS1iZDI3LTQ0ZjI5ZDk3YTE3ODogQXVzdHJpZWIgY2EuIDEwIFRhZ2UgbmFjaCBDaGFyZG9ubmF5LgogIDU3MmIzNTc4LTRmYTYtNGRjNC1iNzE2LWMzZWY3N2M4NmM3YjoKICAgIHZhbHVlOiA8dWw+PGxpPjxwPktsZWluZSBCbMOkdHRlciwgZGFkdXJjaCBrZWluZSBFbnRibMOkdHRlcnVuZyBub3R3ZW5kaWcuCiAgICAgIDwvcD48L2xpPjwvdWw+CiAgICBzb3VyY2VzOiBbXQogICAgY29tcGFyZXM6IHt9CiAgMmY0ZmUzOWQtNjkxNi00YmJiLTk2YmMtYWZhMmY5MjdkYzhhOgogICAgdmFsdWU6IDx1bD48bGk+PHA+RGVyIENhYmVybmV0IEJsYW5jIGlzdCBzZWhyIGd1dCBnZWVpZ25ldCBmw7xyIGRpZQogICAgICBNYXNjaGluZW5sZXNlLiAgIDwvcD48L2xpPjxsaT48cD5CZWkgSGFuZGxlc2UgZWluIGNhLiAzMCAlIGjDtmhlcmVyCiAgICAgIEF1ZndhbmQsIGRhIHZpZWxlIFRyYXViZW4gbWl0IHdlbmlnIEdld2ljaHQgdm9yaGFuZGVuIHNpbmQuIDwvcD48L2xpPjwvdWw+CiAgICBzb3VyY2VzOiBbXQogICAgY29tcGFyZXM6IHt9CiAgMDdmYTZjZGEtY2YyMC00Yzc1LWFhMDUtMmQ5NDUwMGVkOWI3OgogICAgdmFsdWU6IDx1bD48bGk+PHA+RXJ0cmFnIGlzdCBzY2h3aWVyaWcgenUgc2Now6R0emVuIHVuZCB2b3JoZXJ6dXNhZ2VuLiBFciBsaWVndAogICAgICB6d2lzY2hlbiA1MC0xNTAga2cvQXIuIEltIFNjaG5pdHQgZ2VyaW5nZXIgYWxzIGJlaW0gR3JhdWJ1cmd1bmRlciAoZXR3YSA5MAogICAgICBrZy9BciksIDwvcD48L2xpPjwvdWw+CiAgICBzb3VyY2VzOiBbXQogICAgY29tcGFyZXM6CiAgICAgIGMzMTJmMTY5LTFhODAtNGI4ZC1iOTRkLTgwYzI3MzIzZGY4NzogSW0gU2Nobml0dCBnZXJpbmdlciBhbHMgYmVpbSBHcmF1YnVyZ3VuZGVyIChldHdhIDkwIGtnL0FyKS4KICAwZTY5YWRhZi04NGNlLTQ0NzItOWUxNi01YTUxYzI0MzhjOWY6CiAgICB2YWx1ZTogPHVsPjxsaT48cD5XaXIgaGFiZW4gaW5zZ2VzYW10IDEsNSBoYSBDYWJlcm5ldCBCbGFuYyBpbSBBbmJhdS4gQmlzaGVyCiAgICAgIGtlaW5lIEVyZmFocnVuZyBtaXQgTWluaW1hbHNjaG5pdHQgYmVpIGRpZXNlciBTb3J0ZS4gPC9wPjwvbGk+PC91bD4KICAgIHNvdXJjZXM6IFtdCiAgICBjb21wYXJlczoge30KICAzNzQ3ZWRkYS1jNWY3LTRiN2ItYjI0MS1lMzQ0YjZkYTE4MDI6CiAgICB2YWx1ZTogPHVsPjxsaT48cD5QZXJvbm9zcG9yYS1BbmbDpGxsaWdrZWl0IGlzdCBleHRyZW0gaW4gZGVyCiAgICAgIEJsw7x0ZSEgIDwvcD48L2xpPjxsaT48cD5CZWkgZWluZXIgUHJpbcOkcmluZmVrdGlvbiB2b3IgZGVyIEJsw7x0ZSBpc3QgZWluCiAgICAgIG5vcm1hbGVyIFBmbGFuemVuc2NodXR6IHfDpGhyZW5kIGRlciBCbMO8dGUKICAgICAgdW5hYmRpbmdiYXIuICA8L3A+PC9saT48bGk+PHA+QmzDpHR0ZXIgdW5kIFNjaHJvdGtvcm4gZ3Jvw59lIEJlZXJlbiBzaW5kCiAgICAgIGRhbm4gd2llZGVydW0gcmVzaXN0ZW50LiBCaXNoZXIga2VpbmUgUHJvYmxlbWUgbWl0CiAgICAgIEJvdHJ5dGlzLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+PC9saT48bGk+PHA+SW4gZ3V0ZW4gSmFocmVuCiAgICAgIHNpbmQgMiBCZWhhbmRsdW5nZW4sIGluIHNjaHdpZXJpZ2VuIEphaHJlbiBiaXMgenUgNiBCZWhhbmRsdW5nZW4gbm90d2VuZGlnCiAgICAgIDwvcD48L2xpPjwvdWw+CiAgICBzb3VyY2VzOiBbXQogICAgY29tcGFyZXM6IHt9CmFlZWRlYTBiLTNhYmEtNDI0OS1iYjRkLTE1ZGI2MDAyNjc0MToKICBjMmYwNTdhMC00MTQ3LTQ0NDEtODg2OS03ZTgwNzYxZWNiZmM6CiAgICB2YWx1ZTogPHVsPjxsaT48cD5QZXJvbm9zcG9yYS1BbmbDpGxsaWdrZWl0IGlzdCBleHRyZW0gaW4gZGVyCiAgICAgIEJsw7x0ZSEgICAgIDwvcD48L2xpPjxsaT48cD5CZWkgZWluZXIgUHJpbcOkcmluZmVrdGlvbiB2b3IgZGVyIEJsw7x0ZSBpc3QgZWluCiAgICAgIG5vcm1hbGVyIFBmbGFuemVuc2NodXR6IHfDpGhyZW5kIGRlciBCbMO8dGUgdW5hYmRpbmdiYXIuICAtIEJsw6R0dGVyIHVuZAogICAgICBTY2hyb3Rrb3JuIGdyb8OfZSBCZWVyZW4gc2luZCBkYW5uIHdpZWRlcnVtCiAgICAgIHJlc2lzdGVudC4gIDwvcD48L2xpPjxsaT48cD5CaXNoZXIga2VpbmUgUHJvYmxlbWUgbWl0CiAgICAgIEJvdHJ5dGlzLiAgICA8L3A+PC9saT48bGk+PHA+SW4gZ3V0ZW4gSmFocmVuIHNpbmQgMiBCZWhhbmRsdW5nZW4sIGluCiAgICAgIHNjaHdpZXJpZ2VuIEphaHJlbiBiaXMgenUgNiBCZWhhbmRsdW5nZW4gbm90d2VuZGlnIDwvcD48L2xpPjwvdWw+CiAgICBzb3VyY2VzOiBbXQogICAgY29tcGFyZXM6IHt9CjIwNWE0MzMwLTQ0ODAtNDEwMi1iODllLTYxMTZjMTdiM2I4MDoKICAzYWZjNWYyOS01YTAzLTQ2YzgtODZlNS1kZjU0ODRlZDI2ZmQ6CiAgICB2YWx1ZTogPHVsPjxsaT48cD5EaWUgQXJvbWF0aWsgdm9uIENhcmJlcm5ldCBCbGFuYyBpc3Qgc2Nob24gYWIgMSAlIFZlcnNjaG5pdHQKICAgICAgc3DDvHJiYXIuIERlc2hhbGIgbmljaHQgZsO8ciBFbnRzb3JndW5nIMO8YmVyIFZlcnNjaG5pdHQKICAgICAgZ2VlaWduZXQuICA8L3A+PC9saT48bGk+PHA+U2VrdGdydW5kd2VpbiBpbSBOT1UgQ3JlbWFudCAoUGl3aQogICAgICBLb2xsZWt0aXYpLiAgPC9wPjwvbGk+PGxpPjxwPlRyb2NrZW5lciBTdGFuZGFyZHdlaW4gKFdlaW5ndXQgRnJpZWRyaWNoCiAgICAgIEtpZWZlcikuIDwvcD48L2xpPjxsaT48cD5OYXR1cndlaW4gdW5kIEN1dsOpZSBtaXQgTcO8bGxlci1UaHVyZ2F1CiAgICAgICjDlmtvbG9naXNjaGVzIFdlaW5ndXQgU2NobWlkdCkuIDwvcD48L2xpPjwvdWw+CiAgICBzb3VyY2VzOiBbXQogICAgY29tcGFyZXM6IHt9CiAgYTU3Yzg5NDMtZDJlYy00MGQzLWIyMzctMmY0MDViNTk3YmI5OgogICAgdmFsdWU6IDx1bD48bGk+PHA+SW0gV2VpbmF1c2JhdSBiZWhhbmRlbG4gd2lyIGlobiB3aWUgU2F1dmlnbm9uIEJsYW5jLiBFeHRyZW0KICAgICAgcmVha3Rpdi4gLSBBcm9tYXRpayBzZWhyIGdyw7xuLiAtIEltIEdlZ2Vuc2F0eiB6dW0gU2F1dmlnbm9uIEJsYW5jIGF1Y2gKICAgICAgdmllbCBncsO8bmUgQnJlbm5uZXNzZWxsLUFyb21hdGlrIGltIE11bmQuIC0gU2VrdGdydW5kd2VpbmbDpGhpZyBtaXQgY2EuIDgwCiAgICAgIEdyYWQgT2VjaHNsZSwgZXR3YSBlaW5lIFdvY2hlIHZvciBNw7xsbGVyLVRodXJnYXUuIEbDvHIgU3RhbmRhcmR3ZWluIG1pdCA5MAogICAgICBHcmFkIE9lY2hzbGUgb2RlciB6d8O2bGZlaW5oYWxiIFZvbHVtZW4gUHJvemVudCBtaXQgU3DDpHRidXJndW5kZXIgb2RlciBhY2h0CiAgICAgIFRhZ2UgbmFjaCBNw7xsbGVyLVRodXJnYXUgKGFiaMOkbmdpZyB2b20gRXJ0cmFnKS4gPC9wPjwvbGk+PC91bD4KICAgIHNvdXJjZXM6IFtdCiAgICBjb21wYXJlczoKICAgICAgY2E1Njg5ZTgtMDU3ZS00NGYyLWIwZjItMTQ3YWViOTg2MzFjOiA+LQogICAgICAgIFNla3RncnVuZHdlaW5mw6RoaWcgbWl0IGNhLiA4MCBHcmFkIE9lY2hzbGUsIGV0d2EgZWluZSBXb2NoZSB2b3IKICAgICAgICBNw7xsbGVyLVRodXJnYXUuIAoKICAgICAgICBGw7xyIFN0YW5kYXJkd2VpbiBtaXQgOTAgR3JhZCBPZWNoc2xlIG9kZXIgenfDtmxmZWluaGFsYiBWb2x1bWVuIFByb3plbnQKICAgICAgICBhY2h0IFRhZ2UgbmFjaCBNw7xsbGVyLVRodXJnYXUgKGFiaMOkbmdpZyB2b20gRXJ0cmFnKS4KICAgICAgOGU5MWM2NmUtZjZlOC00YTdiLTg1NzYtMzc2OTI1ZWU0OWUyOiBGw7xyIFN0YW5kYXJkd2VpbiBtaXQgOTAgR3JhZCBPZWNoc2xlIG9kZXIKICAgICAgICB6d8O2bGZlaW5oYWxiIFZvbHVtZW4gUHJvemVudCBtaXQgU3DDpHRidXJndW5kZXIuCmEzODNmNmM0LWJhZWMtNGRiZC04YTA4LTEzYzgzMWVhYTk2Njoge30KMmYzNjg0OTItNjZhMi00ZjZiLWJhZWMtZWZiYTEyYTk1ZWQxOiB7fQozMGZmYzliOS0zN2E0LTQ1MTEtYmNjZC1iMTdhYzlkZTlhNmE6IHt9CjI3YjExZWJmLTAwOWUtNDQ2OC1iZGZmLWQwMTI0Y2Y4MTVhNDoKICA2N2MwZGY3Mi1hNGZlLTQ0MDQtODMyOC0xODczYjQyYzdlMzE6CiAgICB2YWx1ZTogbnVsbAogICAgc291cmNlczogW10KICAgIGNvbXBhcmVzOiB7fQoKLS0tLQoKQXV0aG9yOiAtICd1c2VyOi8vaXpucFBuVG8nCgotLS0tCgpDcmVhdGlvbmRhdGU6IDIwMjUtMDMtMTMgMTI6NTM6NTcKCi0tLS0KCk1vZGlmaWNhdGlvbmRhdGU6IDIwMjUtMDQtMDIgMDg6MzM6MDgKCi0tLS0KClV1aWQ6IGVMVG5Ja3lyRnExSkR0Nmk=
+Title: 1741866837
+
+----
+
+Reports:
+
+66bd8ab0-6cc4-46e9-8130-89fd72829abf:
+  3ae21351-c203-4add-bc75-c02539a5f596:
+    value: <ul><li><p>Insgesamt verringert sich der Arbeitsaufwand der Laubarbeiten
+      bei uns bei Cabernet Blanc um 50 % gegenüber unseren klassischen
+      Rebsorten.  </p></li><li><p>Viel vegetatives Wachstum, das schnell ins
+      Holz geht, dadurch aber auch Esca anfällig wie Sauvignon
+      Blanc.  </p></li><li><p>Eventuell auf zwei Bögen aufteilen.</p></li></ul>
+    sources: []
+    compares: {}
+  c88c417f-6be5-44b4-a474-9256223a0342:
+    value: <ul><li><p>Für eine Sauvignon Blanc Stilistik sollte auf leichtem Boden
+      mit hohem Kalkgehalt gepflanzt werden. </p></li></ul>
+    sources: []
+    compares: {}
+  d44809ef-9291-4b10-8529-7f58017b29d5:
+    value: <ul><li><p>Cabernet Blanc wächst bei uns sehr senkrecht mit stabiler
+      Laubwand und vielen Haken. Ein 50 cm langer Überstand der Laubwand stellt
+      kein Problem dar. Eine Vorrichtung als Unterstützung kann niedriger als
+      üblich sein. </p></li></ul>
+    sources: []
+    compares: {}
+  182161b1-37c7-45b2-a1df-6699a09d7d1b:
+    value: <ul><li><p>Später Austrieb, d.h. etwa 10 Tage nach Chardonnay bzw. 5 Tage
+      nach Müller-Thurgau und Grauburgunder.               </p></li><li><p>Durch
+      den späten Austrieb liegt Cabernet im Wuchs hinter den anderen
+      Sorten.  Somit muss diese PIWI Rebsorte auch später geheftet und ein
+      späterer Laubschnitt durchgeführt werden. </p></li></ul>
+    sources: []
+    compares:
+      ca5689e8-057e-44f2-b0f2-147aeb98631c: "- Austrieb ca. 5 Tage nach Müller-Thurgau."
+      c312f169-1a80-4b8d-b94d-80c27323df87: "- Austrieb ca. 5 Tage nach Grauburgunder."
+      44847e98-92ce-450a-bd27-44f29d97a178: Austrieb ca. 10 Tage nach Chardonnay.
+  572b3578-4fa6-4dc4-b716-c3ef77c86c7b:
+    value: <ul><li><p>Kleine Blätter, dadurch keine Entblätterung notwendig.
+      </p></li></ul>
+    sources: []
+    compares: {}
+  2f4fe39d-6916-4bbb-96bc-afa2f927dc8a:
+    value: <ul><li><p>Der Cabernet Blanc ist sehr gut geeignet für die
+      Maschinenlese.   </p></li><li><p>Bei Handlese ein ca. 30 % höherer
+      Aufwand, da viele Trauben mit wenig Gewicht vorhanden sind. </p></li></ul>
+    sources: []
+    compares: {}
+  07fa6cda-cf20-4c75-aa05-2d94500ed9b7:
+    value: <ul><li><p>Ertrag ist schwierig zu schätzen und vorherzusagen. Er liegt
+      zwischen 50-150 kg/Ar. Im Schnitt geringer als beim Grauburgunder (etwa 90
+      kg/Ar), </p></li></ul>
+    sources: []
+    compares:
+      c312f169-1a80-4b8d-b94d-80c27323df87: Im Schnitt geringer als beim Grauburgunder (etwa 90 kg/Ar).
+  0e69adaf-84ce-4472-9e16-5a51c2438c9f:
+    value: <ul><li><p>Wir haben insgesamt 1,5 ha Cabernet Blanc im Anbau. Bisher
+      keine Erfahrung mit Minimalschnitt bei dieser Sorte. </p></li></ul>
+    sources: []
+    compares: {}
+  3747edda-c5f7-4b7b-b241-e344b6da1802:
+    value: <ul><li><p>Peronospora-Anfälligkeit ist extrem in der
+      Blüte!  </p></li><li><p>Bei einer Primärinfektion vor der Blüte ist ein
+      normaler Pflanzenschutz während der Blüte
+      unabdingbar.  </p></li><li><p>Blätter und Schrotkorn große Beeren sind
+      dann wiederum resistent. Bisher keine Probleme mit
+      Botrytis.                               </p></li><li><p>In guten Jahren
+      sind 2 Behandlungen, in schwierigen Jahren bis zu 6 Behandlungen notwendig
+      </p></li></ul>
+    sources: []
+    compares: {}
+aeedea0b-3aba-4249-bb4d-15db60026741:
+  c2f057a0-4147-4441-8869-7e80761ecbfc:
+    value: <ul><li><p>Peronospora-Anfälligkeit ist extrem in der
+      Blüte!     </p></li><li><p>Bei einer Primärinfektion vor der Blüte ist ein
+      normaler Pflanzenschutz während der Blüte unabdingbar.  - Blätter und
+      Schrotkorn große Beeren sind dann wiederum
+      resistent.  </p></li><li><p>Bisher keine Probleme mit
+      Botrytis.    </p></li><li><p>In guten Jahren sind 2 Behandlungen, in
+      schwierigen Jahren bis zu 6 Behandlungen notwendig </p></li></ul>
+    sources: []
+    compares: {}
+205a4330-4480-4102-b89e-6116c17b3b80:
+  3afc5f29-5a03-46c8-86e5-df5484ed26fd:
+    value: <ul><li><p>Die Aromatik von Carbernet Blanc ist schon ab 1 % Verschnitt
+      spürbar. Deshalb nicht für Entsorgung über Verschnitt
+      geeignet.  </p></li><li><p>Sektgrundwein im NOU Cremant (Piwi
+      Kollektiv).  </p></li><li><p>Trockener Standardwein (Weingut Friedrich
+      Kiefer). </p></li><li><p>Naturwein und Cuvée mit Müller-Thurgau
+      (Ökologisches Weingut Schmidt). </p></li></ul>
+    sources: []
+    compares: {}
+  a57c8943-d2ec-40d3-b237-2f405b597bb9:
+    value: <ul><li><p>Im Weinausbau behandeln wir ihn wie Sauvignon Blanc. Extrem
+      reaktiv. - Aromatik sehr grün. - Im Gegensatz zum Sauvignon Blanc auch
+      viel grüne Brennnessell-Aromatik im Mund. - Sektgrundweinfähig mit ca. 80
+      Grad Oechsle, etwa eine Woche vor Müller-Thurgau. Für Standardwein mit 90
+      Grad Oechsle oder zwölfeinhalb Volumen Prozent mit Spätburgunder oder acht
+      Tage nach Müller-Thurgau (abhängig vom Ertrag). </p></li></ul>
+    sources: []
+    compares:
+      ca5689e8-057e-44f2-b0f2-147aeb98631c: >-
+        Sektgrundweinfähig mit ca. 80 Grad Oechsle, etwa eine Woche vor
+        Müller-Thurgau. 
+
+        Für Standardwein mit 90 Grad Oechsle oder zwölfeinhalb Volumen Prozent
+        acht Tage nach Müller-Thurgau (abhängig vom Ertrag).
+      8e91c66e-f6e8-4a7b-8576-376925ee49e2: Für Standardwein mit 90 Grad Oechsle oder
+        zwölfeinhalb Volumen Prozent mit Spätburgunder.
+a383f6c4-baec-4dbd-8a08-13c831eaa966: {}
+2f368492-66a2-4f6b-baec-efba12a95ed1: {}
+30ffc9b9-37a4-4511-bccd-b17ac9de9a6a: {}
+27b11ebf-009e-4468-bdff-d0124cf815a4:
+  67c0df72-a4fe-4404-8328-1873b42c7e31:
+    value: null
+    sources: []
+    compares: {}
+
+----
+
+Author: - 'user://iznpPnTo'
+
+----
+
+Creationdate: 2025-03-13 12:53:57
+
+----
+
+Modificationdate: 2025-04-02 08:33:08
+
+----
+
+Uuid: eLTnIkyrFq1JDt6i

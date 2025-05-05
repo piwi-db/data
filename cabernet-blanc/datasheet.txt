@@ -1,1 +1,224 @@
-VGl0bGU6IENhYmVybmV0IEJsYW5jCgotLS0tCgpIeWJyaWRpemF0aW9uOiA5ZTlmYWQ3ZC1iMDhmLTQwNjQtODNiMS01MmQzMmZjYTBiMTQsIGJlNTQxNTY2LTllNjUtNDFlYy1hN2ZiLWYyODVkMzk0ZDcyMgoKLS0tLQoKSHlicmlkaXphdGlvbnllYXI6IDE5OTEKCi0tLS0KCkdyb3dlcjogVmFsZW50aW4gQmxhdHRuZXIgKENIKSwgU2VsZWt0aW9uIFJlYnNjaHVsZSBGcmV5dGFnLCA2NzQzNSBOZXVzdGFkdAoKLS0tLQoKQ3B2cmRlOiAyMDA4CgotLS0tCgpDcHZyZXU6IAoKLS0tLQoKUmVzaXN0YW5jZWxvY2k6CgotCiAgZ2VuZTogcnB2CiAgbG9jaTogMy4xCi0KICBnZW5lOiByZW4KICBsb2NpOiAzLjAKLQogIGdlbmU6IHJlbgogIGxvY2k6IDkuMAoKLS0tLQoKQ292ZXI6IC0gJ2ZpbGU6Ly9iY2pXOExHb0p1ZFVNVUt2JwoKLS0tLQoKQ3JpdGVyaWFzOgoKYWVlZGVhMGItM2FiYS00MjQ5LWJiNGQtMTVkYjYwMDI2NzQxOgogIGMyZjA1N2EwLTQxNDctNDQ0MS04ODY5LTdlODA3NjFlY2JmYzoKICAgIHZhbHVlOgogICAgICBwZXJvbm9zcG9yYVRvbGVyYW5jZTogZmFsc2UKICAgICAgcGVyb25vc3BvcmE6IDMKICAgICAgb2lkaXVtVG9sZXJhbmNlOiBmYWxzZQogICAgICBvaWRpdW06IDIKICAgICAgYm90cnl0aXNUb2xlcmFuY2U6IGZhbHNlCiAgICAgIGJvdHJ5dGlzOiAzCiAgICBzb3VyY2VzOgogICAgICAtIDg5ZTlmZGUzLWI3N2YtNDI2Zi04YWU3LTU1MDQxOTBhNWIzMAogICAgY29tcGFyZXM6IFtdCiAgZDE5ZWYzNTctMTU5Ni00NzhmLWE2ZTMtYjAwYTM2ZmJmODNkOgogICAgdmFsdWU6IG51bGwKICAgIHNvdXJjZXM6IFtdCiAgICBjb21wYXJlczogW10KICAzMGUzNzE3YS02Mjk0LTQ1ZTUtYThlMC1jNzMyMTcyMDU5NmE6CiAgICB2YWx1ZTogbnVsbAogICAgc291cmNlczogW10KICAgIGNvbXBhcmVzOiBbXQogIDQ0MmZlNDg0LWI4ZTQtNDRmZC1iZGJmLTY4OTM3NWYwZjE2NjoKICAgIHZhbHVlOiBudWxsCiAgICBzb3VyY2VzOiBbXQogICAgY29tcGFyZXM6IFtdCjY2YmQ4YWIwLTZjYzQtNDZlOS04MTMwLTg5ZmQ3MjgyOWFiZjoKICBjODhjNDE3Zi02YmU1LTQ0YjQtYTQ3NC05MjU2MjIzYTAzNDI6CiAgICB2YWx1ZTogbnVsbAogICAgc291cmNlczogW10KICAgIGNvbXBhcmVzOiBbXQogIDQwYzI1NmZmLTEwZDItNGQ1Zi1iYTQ4LTU5OTBkNzQ5Y2ZjMzoKICAgIHZhbHVlOiB8CiAgICAgIEluIGd1dGVuIEphaHJlbiBzaW5kIDIgQmVoYW5kbHVuZ2VuLCBpbiBzY2h3aWVyaWdlbiBKYWhyZW4gYmlzIDYgQmVoYW5kbHVuZ2VuIG5vdHdlbmRpZyAoc2llaGUgYXVjaCBXaWRlcnN0YW5kc2bDpGhpZ2tlaXQpLgogICAgc291cmNlczoKICAgICAgLSAwOGFjOWU0Ny1lZjA2LTRlNDAtYjFmYS03YmFiNTk4YjNmYmIKICAgIGNvbXBhcmVzOiBbXQogIDNhZTIxMzUxLWMyMDMtNGFkZC1iYzc1LWMwMjUzOWE1ZjU5NjoKICAgIHZhbHVlOiBudWxsCiAgICBzb3VyY2VzOiBbXQogICAgY29tcGFyZXM6IFtdCiAgZDQ0ODA5ZWYtOTI5MS00YjEwLTg1MjktN2Y1ODAxN2IyOWQ1OgogICAgdmFsdWU6IG51bGwKICAgIHNvdXJjZXM6IFtdCiAgICBjb21wYXJlczogW10KICA5ZTBmMGYzYS0yZWFmLTQ3NmEtYjZjZS0zOGNkMmJmZjI0MWI6CiAgICB2YWx1ZTogYjRiM2FhOTktZTZiMC00MDFhLTgwMDgtN2JkY2Y2YTI0ZDQ5CiAgICBzb3VyY2VzOgogICAgICAtIDg5ZTlmZGUzLWI3N2YtNDI2Zi04YWU3LTU1MDQxOTBhNWIzMAogICAgICAtIDM1ODRmYmQ4LTlkMTYtNDM4ZC1hN2E1LWU1MzU5YTc0M2U3MAogICAgY29tcGFyZXM6IFtdCiAgMTgyMTYxYjEtMzdjNy00NWIyLWExZGYtNjY5OWEwOWQ3ZDFiOgogICAgdmFsdWU6CiAgICAgIC0gMjIwNjQ3MWItNGIwYi00YzI3LWEwZDItMWNkZmQ4ODA1YjIyCiAgICBzb3VyY2VzOgogICAgICAtIGIyMjE0OGFiLTJkMjItNDRhNS1hNTIzLTQ4NTE5MWZkNGMwMgogICAgY29tcGFyZXM6IFtdCiAgNTcyYjM1NzgtNGZhNi00ZGM0LWI3MTYtYzNlZjc3Yzg2YzdiOgogICAgdmFsdWU6ICc8cD5FaW4gdHlwaXNjaGVzIENhYmVybmV0IFNhdXZpZ25vbiBCbGF0dCwgZGEgZsO8bmZlY2tpZyBtaXQgNSBMYXBwZW4uIDwvcD4nCiAgICBzb3VyY2VzOiBbXQogICAgY29tcGFyZXM6IFtdCiAgOTZlZDU0NDYtOGNhMS00YjA4LWIzY2EtM2I2ZDQ2NDU1YmYxOgogICAgdmFsdWU6ICc8cD5EaWUgVHJhdWJlIGlzdCBncm/DnywgZ2VzY2h1bHRlcnQsIHNlaHIgbG9ja2VyYmVlcmlnLCBsdWZ0aWcgdW5kIGxlaWNodCBhYnRyb2NrbmVuZCwgd2FzIHNpY2ggcG9zaXRpdiBhdWYgZGllIFdpZGVyc3RhbmRzZsOkaGlna2VpdCBnZWdlbiBCb3RyeXRpcyBhdXN3aXJrdC4gIDwvcD4nCiAgICBzb3VyY2VzOgogICAgICAtIGQ4MWFkMzUyLWFiZjktNGY2OC1iZjliLTE2YmQ4NTJiOGQ0NgogICAgY29tcGFyZXM6IFtdCiAgOTNjNDMxMmUtODE0Yy00MmMyLTkzY2YtYTY5ZjVkNWQ5YmYxOgogICAgdmFsdWU6CiAgICAgIC0gNDc2ZDRiMTYtOGUzMy00ZjdlLThjZWEtMTllZWM3N2JkZmEwCiAgICBzb3VyY2VzOgogICAgICAtIDM1ODRmYmQ4LTlkMTYtNDM4ZC1hN2E1LWU1MzU5YTc0M2U3MAogICAgY29tcGFyZXM6IFtdCiAgMzdmODk5NTQtOGUyYi00ZjQxLTg0YWYtMzEzYzI4NGYyNjU3OgogICAgdmFsdWU6ICc8cD5EaWUgV2VpbmJlZXJlbiBzaW5kIGtsZWluIHVuZCBydW5kLCBnZW1pc2NodGJlZXJpZywgZC5oLiBub3JtYWxncm/Dn2UgdW5kIGp1bmdmZXJuZnLDvGNodGlnZSBCZWVyZW4gYmVmaW5kZW4gc2ljaCBuZWJlbmVpbmFuZGVyLiBEdXJjaCBkaWVzZXMgVmVycmllc2VsbiBzaW5kIGRpZSBSaXNwZW4gc2VociBsb2NrZXJiZWVyaWcsIHdhcyBzaWNoIHBvc2l0aXYgYXVmIGRpZSBCb3RyeXRpc3Jlc2lzdGVueiBhdXN3aXJrdC4gRGllIEJlZXJlbiBzaW5kIG5haGV6dSBrZXJubG9zIHVuZCBiZXNvbmRlcnMgZGllIGtlcm5sb3NlbiBCZWVyZW4gd2Vpc2VuIGVpbmVuIHNlaHIgaG9oZW4gWnVja2VyZ2VoYWx0IGF1Zi4gVm9yIGRlciB2b2xsc3TDpG5kaWdlbiBSZWlmZSBzaW5kIGRpZSBCZWVyZW4gZHVua2VsZ3LDvG4gdW5kIHdpcmtlbiBsYW5nZSB1bnJlaWYuICBCZWkgQmVnaW5uIGRlciBSZWlmZSwgY2EuIEFuZmFuZyBPa3RvYmVyLCBmw6RyYmVuIHNpY2ggZGllIEZyw7xjaHRlIGdlbGIuIEJlZXJlbmdyw7bDn2UgZWhlciBrbGVpbiwgamUgbmFjaCBKYWhyZ2FuZyB2aWVyIEp1bmdmZXJuZnLDvGNodGUuIDwvcD4nCiAgICBzb3VyY2VzOgogICAgICAtIDg5ZTlmZGUzLWI3N2YtNDI2Zi04YWU3LTU1MDQxOTBhNWIzMAogICAgICAtIDM1ODRmYmQ4LTlkMTYtNDM4ZC1hN2E1LWU1MzU5YTc0M2U3MAogICAgY29tcGFyZXM6IFtdCiAgMDg3MTI3YmUtNzBiOC00ZGU5LTk5YmUtYjFiYzFmYTJmNWRmOgogICAgdmFsdWU6CiAgICAgIC0gN2JjYjc4YzItOTQ4Ni00MGZiLTk2MDQtMDQ3YWQyNTk4Y2I5CiAgICBzb3VyY2VzOgogICAgICAtIDg5ZTlmZGUzLWI3N2YtNDI2Zi04YWU3LTU1MDQxOTBhNWIzMAogICAgY29tcGFyZXM6IFtdCiAgYmFlMTZkZTAtZDE4Ni00MjhjLWE4ZmEtNmE3OTFhNDMzMGZmOgogICAgdmFsdWU6CiAgICAgIC0gZmJiZTc1MzctNDZkNy00NTg2LTgwM2QtNjI3NDFkMTg1MGYwCiAgICBzb3VyY2VzOgogICAgICAtIGIyMjE0OGFiLTJkMjItNDRhNS1hNTIzLTQ4NTE5MWZkNGMwMgogICAgY29tcGFyZXM6IFtdCiAgMDYzZWFiYmMtOTYyNS00YzQ0LWFjYjUtYWFhMTE3ZjdjYmU0OgogICAgdmFsdWU6ICc8cD5CaXMgenVyIHZvbGxzdMOkbmRpZ2VuIFJlaWZlIHNpbmQgZGllIEJlZXJlbiBkdW5rZWxncsO8biB1bmQgd2lya2VuIGxhbmdlIHVucmVpZi4gIEVyc3QgYmVpIEJlZ2lubiBkZXIgRW5kcmVpZmUsIGNhLiBBbmZhbmcgT2t0b2JlciBmw6RyYmVuIHNpZSBzaWNoIGdlbGIuIDwvcD4nCiAgICBzb3VyY2VzOgogICAgICAtIDg5ZTlmZGUzLWI3N2YtNDI2Zi04YWU3LTU1MDQxOTBhNWIzMAogICAgICAtIGQ4MWFkMzUyLWFiZjktNGY2OC1iZjliLTE2YmQ4NTJiOGQ0NgogICAgY29tcGFyZXM6CiAgICAgIGI4MjBjZWQxLTZhNTItNGY4ZC05MzQ2LWI3MDc4NGZlYmI2MjogJzxwPkRpZSBSZWlmZSBpc3Qgw6RobmxpY2ggZGVtIFJpZXNsaW5nIDwvcD4nCiAgMmY0ZmUzOWQtNjkxNi00YmJiLTk2YmMtYWZhMmY5MjdkYzhhOgogICAgdmFsdWU6ICc8cD5EaWVzZSBSZWJzb3J0ZSBlaWduZXQgc2ljaCBhdWZncnVuZCBpaHJlciDDvGJlcmR1cmNoc2Nobml0dGxpY2hlbiBkaWNrZW4gQmVlcmVuaMOkdXRlIGbDvHIgZWluZW4gc3DDpHRlbiBMZXNlemVpdHB1bmt0LiAgSnVuZyBiencuIG1pdHRlbHJlaWYgZ2VsZXNlbiwgZXJtw7ZnbGljaHQgZGllIEJlZXJlbiBkaWVzZXIgUmVic29ydGUgZ3LDvG4tZ3Jhc2lnZSBiencuIHZlZ2V0YWJpbGUgQXJvbWVuLCBkYXp1IGtvbW1lbiBhdWNoIEFyb21lbiB2b24gU3RhY2hlbGJlZXJlIHVuZC9vZGVyIEFydGlzY2hvY2tlLiBWb2xscmVpZiBnZWxlc2VuLCB6ZWlndCBkaWUgU29ydGUgZ2VybiBleG90aXNjaGUgRnLDvGNodGUgd2llIE1hcmFjdWphIG9kZXIgTGl0c2NoaS4gPC9wPicKICAgIHNvdXJjZXM6CiAgICAgIC0gODhkMzk0MmEtNjdlMi00YThlLTgyNmYtNTAxZTYyODA4MWFjCiAgICBjb21wYXJlczogW10KICAwN2ZhNmNkYS1jZjIwLTRjNzUtYWEwNS0yZDk0NTAwZWQ5Yjc6CiAgICB2YWx1ZTogfC0KICAgICAgV2VnZW4gZGVyIHN0YXJrZW4gVmVycmllc2VsdW5nc25laWd1bmcga8O2bm5lbiBkaWUgRXJ0csOkZ2UgamUgbmFjaCBTdGFuZG9ydCBzZWhyIHVudGVyc2NoaWVkbGljaCBzZWluLgogICAgICBFcnRyYWdzcmVkdXppZXJ1bmdlbiBzb2xsdGVuIGJpcyBuYWNoIGRlciBCbMO8dGUgYWJnZXdhcnRldCB3ZXJkZW4sIHVtIHNpY2ggYW0gInNpY2h0YmFyZW4iIEVydHJhZ3NuaXZlYXUgenUgb3JpZW50aWVyZW4uCiAgICBzb3VyY2VzOgogICAgICAtIDM1ODRmYmQ4LTlkMTYtNDM4ZC1hN2E1LWU1MzU5YTc0M2U3MAogICAgY29tcGFyZXM6IFtdCiAgMGU2OWFkYWYtODRjZS00NDcyLTllMTYtNWE1MWMyNDM4YzlmOgogICAgdmFsdWU6ICdEaWUgV2ludGVyZnJvc3RpZ2tlaXQgaXN0IHNlaHIgZ3V0IC0gdmVyZ2xlaWNoYmFyIG1pdCBSaWVzbGluZy4nCiAgICBzb3VyY2VzOgogICAgICAtIGQ4MWFkMzUyLWFiZjktNGY2OC1iZjliLTE2YmQ4NTJiOGQ0NgogICAgY29tcGFyZXM6IFtdCiAgMzc0N2VkZGEtYzVmNy00YjdiLWIyNDEtZTM0NGI2ZGExODAyOgogICAgdmFsdWU6IG51bGwKICAgIHNvdXJjZXM6IFtdCiAgICBjb21wYXJlczogW10KMjA1YTQzMzAtNDQ4MC00MTAyLWI4OWUtNjExNmMxN2IzYjgwOgogIDM0YzZjNmQxLWM2YjMtNDJjOS1iYmQ4LWJmMWY4ZjMwMGFlOToKICAgIHZhbHVlOiBudWxsCiAgICBzb3VyY2VzOiBbXQogICAgY29tcGFyZXM6IFtdCiAgZTVmMDlhM2YtZmM3OC00YTY5LWJlYjMtZGYzZWVlZWI4ZmQwOgogICAgdmFsdWU6ICc8cD5EZXIgR2VzY2htYWNrIGlzdCBow6R1ZmlnIG1pdCBSaWVzbGluZyB1bmQgU2F1dmlnbm9uIEJsYW5jIHZlcmdsZWljaGJhci48L3A+JwogICAgc291cmNlczoKICAgICAgLSAzNTg0ZmJkOC05ZDE2LTQzOGQtYTdhNS1lNTM1OWE3NDNlNzAKICAgIGNvbXBhcmVzOgogICAgICBiODIwY2VkMS02YTUyLTRmOGQtOTM0Ni1iNzA3ODRmZWJiNjI6ICcnCiAgICAgIDdkMWU1MzQ5LWY5M2ItNGRiYS04ZTdmLWY3OGExODM0ZDE2NTogJycKICAzYWZjNWYyOS01YTAzLTQ2YzgtODZlNS1kZjU0ODRlZDI2ZmQ6CiAgICB2YWx1ZTogW10KICAgIHNvdXJjZXM6IFtdCiAgICBjb21wYXJlczogW10KICAxNDEwODc5My1mZWY5LTRlYTgtODViNy0yMTkwM2RkZmE4NWQ6CiAgICB2YWx1ZTogfAogICAgICBFeG90aXNjaGUgb2RlciBncsO8bmUgTm90ZSBtw7ZnbGljaAogICAgc291cmNlczogW10KICAgIGNvbXBhcmVzOiBbXQogIGE1N2M4OTQzLWQyZWMtNDBkMy1iMjM3LTJmNDA1YjU5N2JiOToKICAgIHZhbHVlOiAnPHA+RsO8ciBlaW5lIGdyw7xuZSBOb3RlOiBsw6RuZ2VyZSBTdGFuZHplaXQgZGVyIE1haXNjaGUsIGRhZHVyY2ggRsO2cmRlcnVuZyBkZXIgZ3LDvG5lbiBQYXByaWthbm90ZSAoUHlyYXppbmUpLiBGw7xyIGVpbmUgZXhvdGlzY2hlIE5vdGU6IFp1Z2FiZSB2b24gQW50aW94aWRhdGlvbnNtaXR0ZWxuIHdpZSBTTzIgdW5kIEFzY29yYmluc8OkdXJlLCBkYSBUaGlvbGUgb3hpZGF0aW9uc2FuZsOkbGxpZyBzaW5kLiBWZXJnw6RyZW4gbWl0IGVpbmVtIEhlZmVzdGFtbSwgZGVyIFRoaW9sZSBmcmVpc2V0enQ7IGRhZHVyY2ggRsO2cmRlcnVuZyBkZXIgZXhvdGlzY2hlbiBOb3RlLiA8L3A+JwogICAgc291cmNlczoKICAgICAgLSBiMjIxNDhhYi0yZDIyLTQ0YTUtYTUyMy00ODUxOTFmZDRjMDIKICAgIGNvbXBhcmVzOiBbXQogIGZmYWM3ZmFjLTAyYjAtNDI4NC1hMDA1LTExNDY1MDA3N2MxYToKICAgIHZhbHVlOiB8CiAgICAgIERlciBXZWluIGVyaW5uZXJ0IHNjaG9uIGltIER1ZnQgYW4gZWluZW4gZWxlZ2FudGVuIFNhdXZpZ25vbiBCbGFuYy4gQmVpIG1pdHRsZXJlIFJlaWZlIGdlbGVzZW4gdW5kIHJlZHVrdGl2IGltIFN0YWhsdGFuayBhdXNnZWJhdXQsIHplaWdlbiBkaWUgV2VpbmUgZWluZSB2ZWdldGFiaWxlLCB3w7xyemlnZSBBcm9tYXRpayB2b24gZ3LDvG5lbSBHcmFzLCBTdGFjaGVsYmVlcmUsIEFydGlzY2hvY2tlLCBzY2h3YXJ6ZXIgSm9oYW5uaXNiZWVyZSB1bmQgcmF1Y2hpZ2VuIEFyb21lbi4gRXJyZWljaGVuIGRpZSBUcmF1YmVuIFZvbGxyZWlmZSwgaXN0IGRpZSBTZW5zb3JpayB2b24gcmVpZmVyIE1hcmFjdWphLCBMaXRzY2hpLCByb3RlciBQYXByaWthIHVuZCB3w7xyemlnZW4gV2llc2Vua3LDpHV0ZXJuIGdlcHLDpGd0LgogICAgc291cmNlczoKICAgICAgLSAzNTg0ZmJkOC05ZDE2LTQzOGQtYTdhNS1lNTM1OWE3NDNlNzAKICAgIGNvbXBhcmVzOiBbXQoyZjM2ODQ5Mi02NmEyLTRmNmItYmFlYy1lZmJhMTJhOTVlZDE6CiAgYzJkNzAwYTItODcxYS00M2JkLWEwY2EtZDFlOGRiMDkyNjIxOgogICAgdmFsdWU6ICc8cD5SZWJzY2h1bGUgRnJleXRhZywgNjc0MzUgTmV1c3RhZHQvV3N0ci47IEFudGVzIFdlaW5iYXUtU2VydmljZSBHbWJILCA2NDY0NiBIZXBwZW5oZWltOzwvcD4nCiAgICBzb3VyY2VzOiBbXQogICAgY29tcGFyZXM6IFtdCiAgNGVmMmU5NWYtNTMxYi00ZGNjLWEzNmMtZDc2MmY4NzUzNjQwOgogICAgdmFsdWU6IG51bGwKICAgIHNvdXJjZXM6IFtdCiAgICBjb21wYXJlczogW10KMjdiMTFlYmYtMDA5ZS00NDY4LWJkZmYtZDAxMjRjZjgxNWE0OgogIDY3YzBkZjcyLWE0ZmUtNDQwNC04MzI4LTE4NzNiNDJjN2UzMToKICAgIHZhbHVlOiAnPHA+MjYwIEhla3RhciAoMjAyMiksIDMzNSBIZWt0YXIgKDIwMjUpPC9wPicKICAgIHNvdXJjZXM6CiAgICAgIC0gNjQzMzUwYzgtZGE3OS00YTA5LTk4NTctYmJiNGQxODU5OGIzCiAgICAgIC0gMDkzNDIxYjgtZmZiYS00NjFkLWE2NjktODAwMTY5MzQxYmQ5CiAgICBjb21wYXJlczogW10KICAxN2EwM2E5NC0yZjdmLTQ0ZjMtYTcxMi0xODFmNTQ2OTBmMWM6CiAgICB2YWx1ZTogW10KICAgIHNvdXJjZXM6IFtdCiAgICBjb21wYXJlczogW10KCi0tLS0KCkNwdnI6IAoKLS0tLQoKU291cmNlczogCgotLS0tCgpVdWlkOiByR0xHdlZrb1Btb3RnbUZx
+Title: Cabernet Blanc
+
+----
+
+Hybridization: 9e9fad7d-b08f-4064-83b1-52d32fca0b14, be541566-9e65-41ec-a7fb-f285d394d722
+
+----
+
+Hybridizationyear: 1991
+
+----
+
+Grower: Valentin Blattner (CH), Selektion Rebschule Freytag, 67435 Neustadt
+
+----
+
+Cpvrde: 2008
+
+----
+
+Cpvreu: 
+
+----
+
+Resistanceloci:
+
+-
+  gene: rpv
+  loci: 3.1
+-
+  gene: ren
+  loci: 3.0
+-
+  gene: ren
+  loci: 9.0
+
+----
+
+Cover: - 'file://bcjW8LGoJudUMUKv'
+
+----
+
+Criterias:
+
+aeedea0b-3aba-4249-bb4d-15db60026741:
+  c2f057a0-4147-4441-8869-7e80761ecbfc:
+    value:
+      peronosporaTolerance: false
+      peronospora: 3
+      oidiumTolerance: false
+      oidium: 2
+      botrytisTolerance: false
+      botrytis: 3
+    sources:
+      - 89e9fde3-b77f-426f-8ae7-5504190a5b30
+    compares: []
+  d19ef357-1596-478f-a6e3-b00a36fbf83d:
+    value: null
+    sources: []
+    compares: []
+  30e3717a-6294-45e5-a8e0-c7321720596a:
+    value: null
+    sources: []
+    compares: []
+  442fe484-b8e4-44fd-bdbf-689375f0f166:
+    value: null
+    sources: []
+    compares: []
+66bd8ab0-6cc4-46e9-8130-89fd72829abf:
+  c88c417f-6be5-44b4-a474-9256223a0342:
+    value: null
+    sources: []
+    compares: []
+  40c256ff-10d2-4d5f-ba48-5990d749cfc3:
+    value: |
+      In guten Jahren sind 2 Behandlungen, in schwierigen Jahren bis 6 Behandlungen notwendig (siehe auch Widerstandsfähigkeit).
+    sources:
+      - 08ac9e47-ef06-4e40-b1fa-7bab598b3fbb
+    compares: []
+  3ae21351-c203-4add-bc75-c02539a5f596:
+    value: null
+    sources: []
+    compares: []
+  d44809ef-9291-4b10-8529-7f58017b29d5:
+    value: null
+    sources: []
+    compares: []
+  9e0f0f3a-2eaf-476a-b6ce-38cd2bff241b:
+    value: b4b3aa99-e6b0-401a-8008-7bdcf6a24d49
+    sources:
+      - 89e9fde3-b77f-426f-8ae7-5504190a5b30
+      - 3584fbd8-9d16-438d-a7a5-e5359a743e70
+    compares: []
+  182161b1-37c7-45b2-a1df-6699a09d7d1b:
+    value:
+      - 2206471b-4b0b-4c27-a0d2-1cdfd8805b22
+    sources:
+      - b22148ab-2d22-44a5-a523-485191fd4c02
+    compares: []
+  572b3578-4fa6-4dc4-b716-c3ef77c86c7b:
+    value: '<p>Ein typisches Cabernet Sauvignon Blatt, da fünfeckig mit 5 Lappen. </p>'
+    sources: []
+    compares: []
+  96ed5446-8ca1-4b08-b3ca-3b6d46455bf1:
+    value: '<p>Die Traube ist groß, geschultert, sehr lockerbeerig, luftig und leicht abtrocknend, was sich positiv auf die Widerstandsfähigkeit gegen Botrytis auswirkt.  </p>'
+    sources:
+      - d81ad352-abf9-4f68-bf9b-16bd852b8d46
+    compares: []
+  93c4312e-814c-42c2-93cf-a69f5d5d9bf1:
+    value:
+      - 476d4b16-8e33-4f7e-8cea-19eec77bdfa0
+    sources:
+      - 3584fbd8-9d16-438d-a7a5-e5359a743e70
+    compares: []
+  37f89954-8e2b-4f41-84af-313c284f2657:
+    value: '<p>Die Weinbeeren sind klein und rund, gemischtbeerig, d.h. normalgroße und jungfernfrüchtige Beeren befinden sich nebeneinander. Durch dieses Verrieseln sind die Rispen sehr lockerbeerig, was sich positiv auf die Botrytisresistenz auswirkt. Die Beeren sind nahezu kernlos und besonders die kernlosen Beeren weisen einen sehr hohen Zuckergehalt auf. Vor der vollständigen Reife sind die Beeren dunkelgrün und wirken lange unreif.  Bei Beginn der Reife, ca. Anfang Oktober, färben sich die Früchte gelb. Beerengröße eher klein, je nach Jahrgang vier Jungfernfrüchte. </p>'
+    sources:
+      - 89e9fde3-b77f-426f-8ae7-5504190a5b30
+      - 3584fbd8-9d16-438d-a7a5-e5359a743e70
+    compares: []
+  087127be-70b8-4de9-99be-b1bc1fa2f5df:
+    value:
+      - 7bcb78c2-9486-40fb-9604-047ad2598cb9
+    sources:
+      - 89e9fde3-b77f-426f-8ae7-5504190a5b30
+    compares: []
+  bae16de0-d186-428c-a8fa-6a791a4330ff:
+    value:
+      - fbbe7537-46d7-4586-803d-62741d1850f0
+    sources:
+      - b22148ab-2d22-44a5-a523-485191fd4c02
+    compares: []
+  063eabbc-9625-4c44-acb5-aaa117f7cbe4:
+    value: '<p>Bis zur vollständigen Reife sind die Beeren dunkelgrün und wirken lange unreif.  Erst bei Beginn der Endreife, ca. Anfang Oktober färben sie sich gelb. </p>'
+    sources:
+      - 89e9fde3-b77f-426f-8ae7-5504190a5b30
+      - d81ad352-abf9-4f68-bf9b-16bd852b8d46
+    compares:
+      b820ced1-6a52-4f8d-9346-b70784febb62: '<p>Die Reife ist ähnlich dem Riesling </p>'
+  2f4fe39d-6916-4bbb-96bc-afa2f927dc8a:
+    value: '<p>Diese Rebsorte eignet sich aufgrund ihrer überdurchschnittlichen dicken Beerenhäute für einen späten Lesezeitpunkt.  Jung bzw. mittelreif gelesen, ermöglicht die Beeren dieser Rebsorte grün-grasige bzw. vegetabile Aromen, dazu kommen auch Aromen von Stachelbeere und/oder Artischocke. Vollreif gelesen, zeigt die Sorte gern exotische Früchte wie Maracuja oder Litschi. </p>'
+    sources:
+      - 88d3942a-67e2-4a8e-826f-501e628081ac
+    compares: []
+  07fa6cda-cf20-4c75-aa05-2d94500ed9b7:
+    value: |-
+      Wegen der starken Verrieselungsneigung können die Erträge je nach Standort sehr unterschiedlich sein.
+      Ertragsreduzierungen sollten bis nach der Blüte abgewartet werden, um sich am "sichtbaren" Ertragsniveau zu orientieren.
+    sources:
+      - 3584fbd8-9d16-438d-a7a5-e5359a743e70
+    compares: []
+  0e69adaf-84ce-4472-9e16-5a51c2438c9f:
+    value: 'Die Winterfrostigkeit ist sehr gut - vergleichbar mit Riesling.'
+    sources:
+      - d81ad352-abf9-4f68-bf9b-16bd852b8d46
+    compares: []
+  3747edda-c5f7-4b7b-b241-e344b6da1802:
+    value: null
+    sources: []
+    compares: []
+205a4330-4480-4102-b89e-6116c17b3b80:
+  34c6c6d1-c6b3-42c9-bbd8-bf1f8f300ae9:
+    value: null
+    sources: []
+    compares: []
+  e5f09a3f-fc78-4a69-beb3-df3eeeeb8fd0:
+    value: '<p>Der Geschmack ist häufig mit Riesling und Sauvignon Blanc vergleichbar.</p>'
+    sources:
+      - 3584fbd8-9d16-438d-a7a5-e5359a743e70
+    compares:
+      b820ced1-6a52-4f8d-9346-b70784febb62: ''
+      7d1e5349-f93b-4dba-8e7f-f78a1834d165: ''
+  3afc5f29-5a03-46c8-86e5-df5484ed26fd:
+    value: []
+    sources: []
+    compares: []
+  14108793-fef9-4ea8-85b7-21903ddfa85d:
+    value: |
+      Exotische oder grüne Note möglich
+    sources: []
+    compares: []
+  a57c8943-d2ec-40d3-b237-2f405b597bb9:
+    value: '<p>Für eine grüne Note: längere Standzeit der Maische, dadurch Förderung der grünen Paprikanote (Pyrazine). Für eine exotische Note: Zugabe von Antioxidationsmitteln wie SO2 und Ascorbinsäure, da Thiole oxidationsanfällig sind. Vergären mit einem Hefestamm, der Thiole freisetzt; dadurch Förderung der exotischen Note. </p>'
+    sources:
+      - b22148ab-2d22-44a5-a523-485191fd4c02
+    compares: []
+  ffac7fac-02b0-4284-a005-114650077c1a:
+    value: |
+      Der Wein erinnert schon im Duft an einen eleganten Sauvignon Blanc. Bei mittlere Reife gelesen und reduktiv im Stahltank ausgebaut, zeigen die Weine eine vegetabile, würzige Aromatik von grünem Gras, Stachelbeere, Artischocke, schwarzer Johannisbeere und rauchigen Aromen. Erreichen die Trauben Vollreife, ist die Sensorik von reifer Maracuja, Litschi, roter Paprika und würzigen Wiesenkräutern geprägt.
+    sources:
+      - 3584fbd8-9d16-438d-a7a5-e5359a743e70
+    compares: []
+2f368492-66a2-4f6b-baec-efba12a95ed1:
+  c2d700a2-871a-43bd-a0ca-d1e8db092621:
+    value: '<p>Rebschule Freytag, 67435 Neustadt/Wstr.; Antes Weinbau-Service GmbH, 64646 Heppenheim;</p>'
+    sources: []
+    compares: []
+  4ef2e95f-531b-4dcc-a36c-d762f8753640:
+    value: null
+    sources: []
+    compares: []
+27b11ebf-009e-4468-bdff-d0124cf815a4:
+  67c0df72-a4fe-4404-8328-1873b42c7e31:
+    value: '<p>260 Hektar (2022), 335 Hektar (2025)</p>'
+    sources:
+      - 643350c8-da79-4a09-9857-bbb4d18598b3
+      - 093421b8-ffba-461d-a669-800169341bd9
+    compares: []
+  17a03a94-2f7f-44f3-a712-181f54690f1c:
+    value: []
+    sources: []
+    compares: []
+
+----
+
+Cpvr: 
+
+----
+
+Sources: 
+
+----
+
+Uuid: rGLGvVkoPmotgmFq

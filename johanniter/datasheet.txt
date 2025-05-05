@@ -1,1 +1,47 @@
-VGl0bGU6IEpvaGFubml0ZXIKCi0tLS0KCkh5YnJpZGl6YXRpb246IGI4MjBjZWQxLTZhNTItNGY4ZC05MzQ2LWI3MDc4NGZlYmI2MiwgOGY2OWZkOGEtNjFiYi00YTcyLWFhZmUtZTdjZjQ0MjgwMThjLCA4OGNjNDA4MC1hOTYyLTQwMjItODM0Mi1lNjEwYWZjM2IzNDgKCi0tLS0KCkh5YnJpZGl6YXRpb255ZWFyOiAxOTY4CgotLS0tCgpHcm93ZXI6IEpvaGFubmVzIFppbW1lcm1hbm4sIFdCSSBGcmVpYnVyZwoKLS0tLQoKQ3B2cmRlOiAxOTk3CgotLS0tCgpDcHZyZXU6IAoKLS0tLQoKUmVzaXN0YW5jZWxvY2k6CgotCiAgZ2VuZTogcmVuCiAgbG9jaTogMy4wCi0KICBnZW5lOiByZW4KICBsb2NpOiA5LjAKLQogIGdlbmU6IHJwdgogIGxvY2k6IDMuMQoKLS0tLQoKQ292ZXI6IC0gJ2ZpbGU6Ly9NRUhLUzhFcmpUMnUyWXZpJwoKLS0tLQoKQ3JpdGVyaWFzOiBbXQoKLS0tLQoKVXVpZDogeTg4dkVMUGhlVzhiWkF5MA==
+Title: Johanniter
+
+----
+
+Hybridization: b820ced1-6a52-4f8d-9346-b70784febb62, 8f69fd8a-61bb-4a72-aafe-e7cf4428018c, 88cc4080-a962-4022-8342-e610afc3b348
+
+----
+
+Hybridizationyear: 1968
+
+----
+
+Grower: Johannes Zimmermann, WBI Freiburg
+
+----
+
+Cpvrde: 1997
+
+----
+
+Cpvreu: 
+
+----
+
+Resistanceloci:
+
+-
+  gene: ren
+  loci: 3.0
+-
+  gene: ren
+  loci: 9.0
+-
+  gene: rpv
+  loci: 3.1
+
+----
+
+Cover: - 'file://MEHKS8ErjT2u2Yvi'
+
+----
+
+Criterias: []
+
+----
+
+Uuid: y88vELPheW8bZAy0

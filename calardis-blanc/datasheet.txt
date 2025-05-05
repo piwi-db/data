@@ -1,1 +1,148 @@
-VGl0bGU6IENhbGFyZGlzIEJsYW5jCgotLS0tCgpIeWJyaWRpemF0aW9uOiAwY2Q2MTc5OC1lNjEzLTRkOTItYmZhNy03NTdmNWNiOTBmMTcsIDkzZTI0ZmY0LTZhZjItNGMyYi1hYjBkLWM2OTcyY2UyMzAyYgoKLS0tLQoKSHlicmlkaXphdGlvbnllYXI6IDE5OTMKCi0tLS0KCkdyb3dlcjogUnVkb2xmIEVpYmFjaCAmYW1wOyBSZWluaGFyZCBUw7ZwZmVyLCBKS0kgU2llYmVsZGluZ2VuCgotLS0tCgpDcHZyZGU6IDIwMTgKCi0tLS0KCkNwdnJldTogMjAxOQoKLS0tLQoKUmVzaXN0YW5jZWxvY2k6CgotCiAgZ2VuZTogcmVuCiAgbG9jaTogMy4wCi0KICBnZW5lOiByZW4KICBsb2NpOiA5LjAKLQogIGdlbmU6IHJwdgogIGxvY2k6IDMuMQotCiAgZ2VuZTogcnB2CiAgbG9jaTogMy4yCi0KICBnZW5lOiByZ2IKICBsb2NpOiAnJwoKLS0tLQoKQ292ZXI6IC0gJ2ZpbGU6Ly9tT2FkVGYzMldhOTd1Z0RDJwoKLS0tLQoKQ3JpdGVyaWFzOgoKYWVlZGVhMGItM2FiYS00MjQ5LWJiNGQtMTVkYjYwMDI2NzQxOgogIGMyZjA1N2EwLTQxNDctNDQ0MS04ODY5LTdlODA3NjFlY2JmYzoKICAgIHZhbHVlOgogICAgICBwZXJvbm9zcG9yYTogMwogICAgICBwZXJvbm9zcG9yYVRvbGVyYW5jZTogZmFsc2UKICAgICAgb2lkaXVtVG9sZXJhbmNlOiB0cnVlCiAgICAgIG9pZGl1bTogMgogICAgICBib3RyeXRpczogMgogICAgICBib3RyeXRpc1RvbGVyYW5jZTogdHJ1ZQogICAgICBiaWR3ZWxsaWk6IDIKICAgICAgYmlkd2VsbGlpVG9sZXJhbmNlOiB0cnVlCiAgICBzb3VyY2VzOgogICAgICAtIGIyMjE0OGFiLTJkMjItNDRhNS1hNTIzLTQ4NTE5MWZkNGMwMgogICAgY29tcGFyZXM6IFtdCjY2YmQ4YWIwLTZjYzQtNDZlOS04MTMwLTg5ZmQ3MjgyOWFiZjoKICBjODhjNDE3Zi02YmU1LTQ0YjQtYTQ3NC05MjU2MjIzYTAzNDI6CiAgICB2YWx1ZTogJzxwPkR1cmNoIGRpZSBlaGVyIHNww6R0ZSBSZWlmZSBpc3QgQ2FsYXJkaXMgQmxhbmMgZsO8ciBlaW5lbiBBbmJhdSBhdWYga2xpbWF0aXNjaCB3ZW5pZ2VyIGJlZ8O8bnN0aWd0ZW4gU3RhbmRvcnRlbiBkZXJ6ZWl0ICgyMDIwKSB3ZW5pZ2VyIGdlZWlnbmV0LCBlYmVuc28gYXVmIHNlaHIgZmxhY2hncsO8bmRpZ2VuIELDtmRlbi4gQmVpIGFuaGFsdGVuZGVyIFRyb2NrZW5oZWl0IGlzdCBlaW5lIEJld8Okc3NlcnVuZyBzZWhyIHZvbiBWb3J0ZWlsLiBXZWluYmF1bGljaCB3ZXJkZW4gYW4gZGllc2UgUmVic29ydGUga2VpbmUgYmVzb25kZXJlbiBFcmZvcmRlcm5pc3NlIGdlc3RlbGx0LiBFaW5lIFRlaWxlbnRibMOkdHRlcnVuZyBkZXIgVHJhdWJlbnpvbmUga2FubiB6dXIgQm90cnl0aXN2ZXJtZWlkdW5nIGJlaXRyYWdlbiwgZGllIEhlZnRhcmJlaXRlbiBzaW5kIHZlcmdsZWljaGJhciBtaXQgUmllc2xpbmcuIDwvcD4nCiAgICBzb3VyY2VzOgogICAgICAtIDM2ZDg0NDlhLTFmNmMtNGIzNy05ZjRjLWU5MDQ0NmZlOTE5MAogICAgY29tcGFyZXM6IFtdCiAgM2FlMjEzNTEtYzIwMy00YWRkLWJjNzUtYzAyNTM5YTVmNTk2OgogICAgdmFsdWU6ICc8cD5EaWUgQ2FsYXJkaXMgQmxhbmMgVHJhdWJlbiB3ZXJkZW4gYXVjaCBpbiBzZWhyIHRyb2NrZW5lbiB1bmQgaGVpw59lbiBKYWhyZW4ga2F1bSBkdXJjaCBTb25uZW5icmFuZCBnZXNjaMOkZGlndC4gQXVmZ3J1bmQgZGVyIGhvaGVuIFBpbHpmZXN0aWdrZWl0IHNvd2llIGVpbmVyIGdlcmluZ2VuIEF0dHJha3Rpdml0w6R0IGbDvHIgRnJhw59zY2jDpGRsaW5nZSBhdWZncnVuZCBkZXIgc3DDpHRlcmVuIFJlaWZlIGlzdCBkaWUgU29ydGUgYmVzb25kZXJzIGbDvHIgbmljaHQgbWVjaGFuaXNpZXJiYXJlIExhZ2VuIGdlZWlnbmV0LiBEaWUgU29ydGUgemVpZ3QgYWxsZ2VtZWluIGVpbmUgZ3V0ZSBWaXRhbGl0w6R0LCB3YXMgc2ljaCBkdXJjaCBkdW5rZWxncsO8bmVzLCBkaWNodGVzIExhdWIgYmVtZXJrYmFyIG1hY2h0IHVuZCBhdWYgZWluZSBob2hlIFBob3Rvc3l0aGVzZXJhdGUgc2NobGllw59lbiBsw6Rzc3QuPC9wPicKICAgIHNvdXJjZXM6CiAgICAgIC0gM2E0YTZhNzUtNTI4Zi00NzY1LWFmZjUtYzA4M2ZmNzQ3NDJiCiAgICAgIC0gMzZkODQ0OWEtMWY2Yy00YjM3LTlmNGMtZTkwNDQ2ZmU5MTkwCiAgICBjb21wYXJlczoKICAgICAgYjgyMGNlZDEtNmE1Mi00ZjhkLTkzNDYtYjcwNzg0ZmViYjYyOiAnPHA+U29ubmVuYnJhbmRzY2jDpGRlbiBzaW5kIGltIFZlcmdsZWljaCB6dSBSaWVzbGluZyBnZXJpbmdlci48L3A+JwogIDE4MjE2MWIxLTM3YzctNDViMi1hMWRmLTY2OTlhMDlkN2QxYjoKICAgIHZhbHVlOgogICAgICAtIDcwOGM3YzE4LTFhY2ItNDQ0Mi1hMWMxLTc0NTk5MTg2NDFjNAogICAgc291cmNlczoKICAgICAgLSAzYTRhNmE3NS01MjhmLTQ3NjUtYWZmNS1jMDgzZmY3NDc0MmIKICAgIGNvbXBhcmVzOgogICAgICBiODIwY2VkMS02YTUyLTRmOGQtOTM0Ni1iNzA3ODRmZWJiNjI6ICc8cD5EZXIgQXVzdHJpZWJzemVpdHB1bmt0IGlzdCBpbSBWZXJnbGVpY2ggenVtIFJpZXNsaW5nIGV0d2FzIHZlcnrDtmdlcnQsIGRpZXMga29tbXQgZGVyIFZlcm1laWR1bmcgdm9uIFNww6R0ZnJvc3RzY2jDpGRlbiB6dWd1dGUuIERlciByZWxhdGl2IHNww6R0ZSBBdXN0cmllYiBzY2jDvHR6dCB6dWRlbSB2b3IgU3DDpHRmcm9zdHNjaMOkZGVuLjwvcD4nCiAgOTNjNDMxMmUtODE0Yy00MmMyLTkzY2YtYTY5ZjVkNWQ5YmYxOgogICAgdmFsdWU6CiAgICAgIC0gYzMzNWYwMWEtODlhYy00Y2IzLTljNWEtYWRlMGU3NmM5NDM0CiAgICBzb3VyY2VzOiBbXQogICAgY29tcGFyZXM6IFtdCiAgMzdmODk5NTQtOGUyYi00ZjQxLTg0YWYtMzEzYzI4NGYyNjU3OgogICAgdmFsdWU6ICc8cD5EaWUgQmVlcmVuIHNpbmQgbWl0dGVsZ3Jvw58gdW5kIGJlaSBWb2xscmVpZmUgd2VyZGVuIGRpZSB2b2xsIGJlc29ubnRlbiBCZWVyZW4gZ29sZGdlbGIgdW5kIHplaWdlbiBicsOkdW5saWNoZSBSZWZsZXhlLjwvcD4nCiAgICBzb3VyY2VzOiBbXQogICAgY29tcGFyZXM6CiAgICAgIGI4MjBjZWQxLTZhNTItNGY4ZC05MzQ2LWI3MDc4NGZlYmI2MjogJycKICAwODcxMjdiZS03MGI4LTRkZTktOTliZS1iMWJjMWZhMmY1ZGY6CiAgICB2YWx1ZToKICAgICAgLSAxNzU4MWVhZC01YjEyLTQ0ZTMtYTRiNS0yYTZhNGY4M2ViYzcKICAgIHNvdXJjZXM6IFtdCiAgICBjb21wYXJlczogW10KICBiYWUxNmRlMC1kMTg2LTQyOGMtYThmYS02YTc5MWE0MzMwZmY6CiAgICB2YWx1ZToKICAgICAgLSA2ZDdhY2RlZC1hNTI0LTRjODUtOWFiYy1jOGFhOTkxZDI4MmQKICAgIHNvdXJjZXM6IFtdCiAgICBjb21wYXJlczogW10KICAwNjNlYWJiYy05NjI1LTRjNDQtYWNiNS1hYWExMTdmN2NiZTQ6CiAgICB2YWx1ZTogJzxwPkRpZSBUcmF1YmUgcmVpZnQgbWl0dGVsc3DDpHQgYmlzIHNww6R0LCB2b3IgZGVtIFJpZXNsaW5nLCBhbGxlcmRpbmdzIGxhbmdzYW1lciBhYiA4NcKwT2UuPC9wPicKICAgIHNvdXJjZXM6IFtdCiAgICBjb21wYXJlczogW10KICAyZjRmZTM5ZC02OTE2LTRiYmItOTZiYy1hZmEyZjkyN2RjOGE6CiAgICB2YWx1ZTogJzxwPkRlciBMZXNlemVpdHB1bmt0IGthbm4gd2VnZW4gZGVyIEJvdHJ5dGlzZmVzdGlna2VpdCBtZWlzdCBuYWNoIGRlbSBSaWVzbGluZyBlcmZvbGdlbi4gTGVzZXJlaWZlIGlzdCBpbiBkZXIgUmVnZWwgRW5kZSBTZXB0ZW1iZXIgYmlzIE1pdHRlIE9rdG9iZXIuIERpZSBsYW5nZSBIw6RuZ3plaXQgYmVpIHN0YWJpbGVyIEbDpHVsbmlzZmVzdGlna2VpdCB1bmQgZ2VyaW5nZW0gTW9zdGdld2ljaHRzYW5zdGllZyBsYXNzZW4gZWluIGJyZWl0ZXMgRXJudGVmZW5zdGVyIHp1LiA8L3A+JwogICAgc291cmNlczoKICAgICAgLSAzYTRhNmE3NS01MjhmLTQ3NjUtYWZmNS1jMDgzZmY3NDc0MmIKICAgICAgLSAzNmQ4NDQ5YS0xZjZjLTRiMzctOWY0Yy1lOTA0NDZmZTkxOTAKICAgIGNvbXBhcmVzOgogICAgICBiODIwY2VkMS02YTUyLTRmOGQtOTM0Ni1iNzA3ODRmZWJiNjI6ICc8cD5EZXIgTGVzZXplaXRwdW5rdCBpc3QgbWl0IGRlbSBkZXMgUmllc2xpbmcgdmVyZ2xlaWNoYmFyPC9wPicKICAwN2ZhNmNkYS1jZjIwLTRjNzUtYWEwNS0yZDk0NTAwZWQ5Yjc6CiAgICB2YWx1ZTogJzxwPkRlciBwb3RlbnRpZWxsZSBFcnRyYWcgaXN0IG9mdCBow7ZoZXIgYWxzIGJlaSBSaWVzbGluZywgZGEga2F1bSBlaW5lIE5laWd1bmcgenVyIFZlcnJpZXNsdW5nIGJlc3RlaHQgdW5kIGRpZSBUcmF1YmVuemFobCBqZSBUcmllYiBob2NoIGlzdC4gQmVpIGhvaGVyIEVydHJhZ3NiZWxhc3R1bmcgbGVpZGVuIFRyYXViZW5xdWFsaXTDpHQgdW5kIFZpdGFsaXTDpHQuIE1pdHRsZXJlcyBiaXMgaG9oZXMgRXJ0cmFnc25pdmVhdSBiZWkgZ3V0ZXIgdW5kIGdsZWljaG3DpMOfaWdlciBBdXNyZWlmZSBkZXIgVHJhdWJlbiBtYWNodCBkZW4gQW5iYXUgd2lydHNjaGFmdGxpY2gsIGJlc29uZGVycyBpbiBKYWhyZW4gbWl0IHNjaGxlY2h0ZXIgQmzDvHRlLiBEdXJjaCBkaWUgaG9oZSBGcnVjaHRiYXJrZWl0IGlzdCBkZXIgRXJ0cmFnIGhvY2ggdW5kIHNvbGx0ZSBuaWNodCB2b2xsIGF1c2dlcmVpenQgd2VyZGVuLiBadWRlbSBpc3QgZGllIFNvcnRlIGVydHJhZ3Nrb25zdGFudCwgbmVpZ3QgYWxzbyB3ZW5pZyB6dSBBbHRlcm5hbnouPC9wPicKICAgIHNvdXJjZXM6CiAgICAgIC0gMzZkODQ0OWEtMWY2Yy00YjM3LTlmNGMtZTkwNDQ2ZmU5MTkwCiAgICBjb21wYXJlczoKICAgICAgYjgyMGNlZDEtNmE1Mi00ZjhkLTkzNDYtYjcwNzg0ZmViYjYyOiAnPHA+RGVyIHBvdGVudGllbGxlIEVydHJhZyBpc3Qgb2Z0IGjDtmhlciBhbHMgYmVpIFJpZXNsaW5nLCBkYSBrYXVtIGVpbmUgTmVpZ3VuZyB6dXIgVmVycmllc2x1bmcgYmVzdGVodCB1bmQgZGllIFRyYXViZW56YWhsIGplIFRyaWViIGhvY2ggaXN0LiA8L3A+JwoyMDVhNDMzMC00NDgwLTQxMDItYjg5ZS02MTE2YzE3YjNiODA6CiAgZTVmMDlhM2YtZmM3OC00YTY5LWJlYjMtZGYzZWVlZWI4ZmQwOgogICAgdmFsdWU6ICc8cD5EaWUgV2VpbmUgemVpZ2VuIGVpbmUgQW5hbG9naWUgenVtIGZydWNodGlnZW4gUmllc2xpbmdwcm9maWwuIFNpZSB6ZWljaG5lbiBzaWNoIGR1cmNoIGZlaW53w7xyemlnZSBmcnVjaHRpZ2UgQXJvbWF0aWsgYXVzLCBvaG5lIGRhYmVpIGVpbmVyc2VpdHMgZmxhY2ggb2RlciBhbmRlcmVyc2VpdHMgc8OkdWVybGljaCB6dSBlcnNjaGVpbmVuLiBEaWVzIGxpZWd0IGFtIG1vZGVyYXRlbiBBbGtvaG9sZ2VoYWx0IHVuZCBkZXIgcmVpZmVuIFPDpHVyZS4gPC9wPicKICAgIHNvdXJjZXM6CiAgICAgIC0gMzZkODQ0OWEtMWY2Yy00YjM3LTlmNGMtZTkwNDQ2ZmU5MTkwCiAgICBjb21wYXJlczoKICAgICAgYjgyMGNlZDEtNmE1Mi00ZjhkLTkzNDYtYjcwNzg0ZmViYjYyOiAnPHA+RGllIFdlaW5lIHplaWdlbiBlaW5lIEFuYWxvZ2llIHp1bSBmcnVjaHRpZ2VuIFJpZXNsaW5ncHJvZmlsLjwvcD4nCiAgM2FmYzVmMjktNWEwMy00NmM4LTg2ZTUtZGY1NDg0ZWQyNmZkOgogICAgdmFsdWU6CiAgICAgIC0gZmE2OTY3NzQtZmY3NC00YmNmLWFiOTEtZjhkYjhhNGFiZDBhCiAgICAgIC0gY2M3NDJjMGMtYjUwYS00MzNjLWJiNTktNWZmNDM2NzFkNzlkCiAgICBzb3VyY2VzOiBbXQogICAgY29tcGFyZXM6IFtdCiAgZmZhYzdmYWMtMDJiMC00Mjg0LWEwMDUtMTE0NjUwMDc3YzFhOgogICAgdmFsdWU6ICc8cD5EZXIgV2VpbiBiZXNpdHp0IGVpbiBmaW5lc3NyZWljaGVzIEFyb21hIHZvbiBNYXJhY3VqYSwgQmx1dG9yYW5nZSB1bmQgZnJpc2NoIGdlc2Nobml0dGVuZW0gQXBmZWwgZ2VwYWFydCBtaXQgZWluZW0gemFydGVuLCBmZWlud8O8cnppZ2VuIEJ1a2V0dCB1bmQgemVpY2huZXQgc2ljaCBkdXJjaCBlaW5lIHNwcml0emlnZSBTw6R1cmUgYXVzLCBkdXJjaCBkaWUgZXIgYWxzIFNla3RncnVuZHdlaW4gZ3V0IGdlZWlnbmV0IGlzdC48L3A+JwogICAgc291cmNlczoKICAgICAgLSAzYTRhNmE3NS01MjhmLTQ3NjUtYWZmNS1jMDgzZmY3NDc0MmIKICAgIGNvbXBhcmVzOiBbXQoyN2IxMWViZi0wMDllLTQ0NjgtYmRmZi1kMDEyNGNmODE1YTQ6CiAgNjdjMGRmNzItYTRmZS00NDA0LTgzMjgtMTg3M2I0MmM3ZTMxOgogICAgdmFsdWU6ICc8cD4yNSw5MyBIZWt0YXIgKDIwMjIpPC9wPicKICAgIHNvdXJjZXM6IFtdCiAgICBjb21wYXJlczogW10KCi0tLS0KClV1aWQ6IDduTGxORHUzSGN6OWFUTks=
+Title: Calardis Blanc
+
+----
+
+Hybridization: 0cd61798-e613-4d92-bfa7-757f5cb90f17, 93e24ff4-6af2-4c2b-ab0d-c6972ce2302b
+
+----
+
+Hybridizationyear: 1993
+
+----
+
+Grower: Rudolf Eibach &amp; Reinhard Töpfer, JKI Siebeldingen
+
+----
+
+Cpvrde: 2018
+
+----
+
+Cpvreu: 2019
+
+----
+
+Resistanceloci:
+
+-
+  gene: ren
+  loci: 3.0
+-
+  gene: ren
+  loci: 9.0
+-
+  gene: rpv
+  loci: 3.1
+-
+  gene: rpv
+  loci: 3.2
+-
+  gene: rgb
+  loci: ''
+
+----
+
+Cover: - 'file://mOadTf32Wa97ugDC'
+
+----
+
+Criterias:
+
+aeedea0b-3aba-4249-bb4d-15db60026741:
+  c2f057a0-4147-4441-8869-7e80761ecbfc:
+    value:
+      peronospora: 3
+      peronosporaTolerance: false
+      oidiumTolerance: true
+      oidium: 2
+      botrytis: 2
+      botrytisTolerance: true
+      bidwellii: 2
+      bidwelliiTolerance: true
+    sources:
+      - b22148ab-2d22-44a5-a523-485191fd4c02
+    compares: []
+66bd8ab0-6cc4-46e9-8130-89fd72829abf:
+  c88c417f-6be5-44b4-a474-9256223a0342:
+    value: '<p>Durch die eher späte Reife ist Calardis Blanc für einen Anbau auf klimatisch weniger begünstigten Standorten derzeit (2020) weniger geeignet, ebenso auf sehr flachgründigen Böden. Bei anhaltender Trockenheit ist eine Bewässerung sehr von Vorteil. Weinbaulich werden an diese Rebsorte keine besonderen Erfordernisse gestellt. Eine Teilentblätterung der Traubenzone kann zur Botrytisvermeidung beitragen, die Heftarbeiten sind vergleichbar mit Riesling. </p>'
+    sources:
+      - 36d8449a-1f6c-4b37-9f4c-e90446fe9190
+    compares: []
+  3ae21351-c203-4add-bc75-c02539a5f596:
+    value: '<p>Die Calardis Blanc Trauben werden auch in sehr trockenen und heißen Jahren kaum durch Sonnenbrand geschädigt. Aufgrund der hohen Pilzfestigkeit sowie einer geringen Attraktivität für Fraßschädlinge aufgrund der späteren Reife ist die Sorte besonders für nicht mechanisierbare Lagen geeignet. Die Sorte zeigt allgemein eine gute Vitalität, was sich durch dunkelgrünes, dichtes Laub bemerkbar macht und auf eine hohe Photosytheserate schließen lässt.</p>'
+    sources:
+      - 3a4a6a75-528f-4765-aff5-c083ff74742b
+      - 36d8449a-1f6c-4b37-9f4c-e90446fe9190
+    compares:
+      b820ced1-6a52-4f8d-9346-b70784febb62: '<p>Sonnenbrandschäden sind im Vergleich zu Riesling geringer.</p>'
+  182161b1-37c7-45b2-a1df-6699a09d7d1b:
+    value:
+      - 708c7c18-1acb-4442-a1c1-7459918641c4
+    sources:
+      - 3a4a6a75-528f-4765-aff5-c083ff74742b
+    compares:
+      b820ced1-6a52-4f8d-9346-b70784febb62: '<p>Der Austriebszeitpunkt ist im Vergleich zum Riesling etwas verzögert, dies kommt der Vermeidung von Spätfrostschäden zugute. Der relativ späte Austrieb schützt zudem vor Spätfrostschäden.</p>'
+  93c4312e-814c-42c2-93cf-a69f5d5d9bf1:
+    value:
+      - c335f01a-89ac-4cb3-9c5a-ade0e76c9434
+    sources: []
+    compares: []
+  37f89954-8e2b-4f41-84af-313c284f2657:
+    value: '<p>Die Beeren sind mittelgroß und bei Vollreife werden die voll besonnten Beeren goldgelb und zeigen bräunliche Reflexe.</p>'
+    sources: []
+    compares:
+      b820ced1-6a52-4f8d-9346-b70784febb62: ''
+  087127be-70b8-4de9-99be-b1bc1fa2f5df:
+    value:
+      - 17581ead-5b12-44e3-a4b5-2a6a4f83ebc7
+    sources: []
+    compares: []
+  bae16de0-d186-428c-a8fa-6a791a4330ff:
+    value:
+      - 6d7acded-a524-4c85-9abc-c8aa991d282d
+    sources: []
+    compares: []
+  063eabbc-9625-4c44-acb5-aaa117f7cbe4:
+    value: '<p>Die Traube reift mittelspät bis spät, vor dem Riesling, allerdings langsamer ab 85°Oe.</p>'
+    sources: []
+    compares: []
+  2f4fe39d-6916-4bbb-96bc-afa2f927dc8a:
+    value: '<p>Der Lesezeitpunkt kann wegen der Botrytisfestigkeit meist nach dem Riesling erfolgen. Lesereife ist in der Regel Ende September bis Mitte Oktober. Die lange Hängzeit bei stabiler Fäulnisfestigkeit und geringem Mostgewichtsanstieg lassen ein breites Erntefenster zu. </p>'
+    sources:
+      - 3a4a6a75-528f-4765-aff5-c083ff74742b
+      - 36d8449a-1f6c-4b37-9f4c-e90446fe9190
+    compares:
+      b820ced1-6a52-4f8d-9346-b70784febb62: '<p>Der Lesezeitpunkt ist mit dem des Riesling vergleichbar</p>'
+  07fa6cda-cf20-4c75-aa05-2d94500ed9b7:
+    value: '<p>Der potentielle Ertrag ist oft höher als bei Riesling, da kaum eine Neigung zur Verrieslung besteht und die Traubenzahl je Trieb hoch ist. Bei hoher Ertragsbelastung leiden Traubenqualität und Vitalität. Mittleres bis hohes Ertragsniveau bei guter und gleichmäßiger Ausreife der Trauben macht den Anbau wirtschaftlich, besonders in Jahren mit schlechter Blüte. Durch die hohe Fruchtbarkeit ist der Ertrag hoch und sollte nicht voll ausgereizt werden. Zudem ist die Sorte ertragskonstant, neigt also wenig zu Alternanz.</p>'
+    sources:
+      - 36d8449a-1f6c-4b37-9f4c-e90446fe9190
+    compares:
+      b820ced1-6a52-4f8d-9346-b70784febb62: '<p>Der potentielle Ertrag ist oft höher als bei Riesling, da kaum eine Neigung zur Verrieslung besteht und die Traubenzahl je Trieb hoch ist. </p>'
+205a4330-4480-4102-b89e-6116c17b3b80:
+  e5f09a3f-fc78-4a69-beb3-df3eeeeb8fd0:
+    value: '<p>Die Weine zeigen eine Analogie zum fruchtigen Rieslingprofil. Sie zeichnen sich durch feinwürzige fruchtige Aromatik aus, ohne dabei einerseits flach oder andererseits säuerlich zu erscheinen. Dies liegt am moderaten Alkoholgehalt und der reifen Säure. </p>'
+    sources:
+      - 36d8449a-1f6c-4b37-9f4c-e90446fe9190
+    compares:
+      b820ced1-6a52-4f8d-9346-b70784febb62: '<p>Die Weine zeigen eine Analogie zum fruchtigen Rieslingprofil.</p>'
+  3afc5f29-5a03-46c8-86e5-df5484ed26fd:
+    value:
+      - fa696774-ff74-4bcf-ab91-f8db8a4abd0a
+      - cc742c0c-b50a-433c-bb59-5ff43671d79d
+    sources: []
+    compares: []
+  ffac7fac-02b0-4284-a005-114650077c1a:
+    value: '<p>Der Wein besitzt ein finessreiches Aroma von Maracuja, Blutorange und frisch geschnittenem Apfel gepaart mit einem zarten, feinwürzigen Bukett und zeichnet sich durch eine spritzige Säure aus, durch die er als Sektgrundwein gut geeignet ist.</p>'
+    sources:
+      - 3a4a6a75-528f-4765-aff5-c083ff74742b
+    compares: []
+27b11ebf-009e-4468-bdff-d0124cf815a4:
+  67c0df72-a4fe-4404-8328-1873b42c7e31:
+    value: '<p>25,93 Hektar (2022)</p>'
+    sources: []
+    compares: []
+
+----
+
+Uuid: 7nLlNDu3Hcz9aTNK

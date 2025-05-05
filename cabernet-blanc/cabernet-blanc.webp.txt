@@ -1,1 +1,17 @@
-RGVzY3JpcHRpb246IAoKLS0tLQoKQWx0OiAKCi0tLS0KCkNvcHlyaWdodDogUmVic2NodWxlIEZyZXl0YWcKCi0tLS0KClV1aWQ6IGJjalc4TEdvSnVkVU1VS3YKCi0tLS0KClRlbXBsYXRlOiBkYXRhc2hlZXRJbWFnZQ==
+Description: 
+
+----
+
+Alt: 
+
+----
+
+Copyright: Rebschule Freytag
+
+----
+
+Uuid: bcjW8LGoJudUMUKv
+
+----
+
+Template: datasheetImage
