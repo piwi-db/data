@@ -47,21 +47,12 @@ Criterias:
 
 Resistenz:
   Widerstandsfähigkeit:
-    value:
-      peronosporaTolerance: true
-      oidiumTolerance: true
-      botrytisTolerance: true
-      peronospora: 2
-    sources:
-      - 89e9fde3-b77f-426f-8ae7-5504190a5b30
-    compares:
-      58a7ab4d-80e5-456d-bd20-bf152457a283: Test
+    peronosporaTolerance: true
+    oidiumTolerance: true
+    botrytisTolerance: true
+    peronospora: 2
 Anbau:
-  'Wüchsigkeit ':
-    value:
-      - 7d819fea-e6a4-41ef-a6a8-7b625add439a
-    sources: []
-    compares: []
+  'Wüchsigkeit ': []
 
 ----
 

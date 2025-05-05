@@ -50,25 +50,15 @@ Criterias:
 
 Resistenz:
   Widerstandsfähigkeit:
-    value:
-      peronospora: 2
-      peronosporaTolerance: false
-      oidium: 2
-      oidiumTolerance: true
-      botrytis: 2
-      botrytisTolerance: true
-      bidwellii: 2
-      bidwelliiTolerance: true
-    sources:
-      - 3a4a6a75-528f-4765-aff5-c083ff74742b
-    compares: []
-  Anfälligkeitsstadien:
-    value:
-      - f439cbe2-f605-4304-81f3-903d44bca9a4
-      - 88667ea4-4492-4db2-a275-de79938ac318
-      - b0f66277-5979-4f81-bddf-97d8ce07224d
-    sources: []
-    compares: []
+    peronospora: 2
+    peronosporaTolerance: false
+    oidium: 2
+    oidiumTolerance: true
+    botrytis: 2
+    botrytisTolerance: true
+    bidwellii: 2
+    bidwelliiTolerance: true
+  Anfälligkeitsstadien: []
 
 ----
 

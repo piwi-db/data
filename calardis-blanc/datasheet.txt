@@ -50,98 +50,33 @@ Criterias:
 
 Resistenz:
   Widerstandsfähigkeit:
-    value:
-      peronospora: 3
-      peronosporaTolerance: false
-      oidiumTolerance: true
-      oidium: 2
-      botrytis: 2
-      botrytisTolerance: true
-      bidwellii: 2
-      bidwelliiTolerance: true
-    sources:
-      - b22148ab-2d22-44a5-a523-485191fd4c02
-    compares: []
+    peronospora: 3
+    peronosporaTolerance: false
+    oidiumTolerance: true
+    oidium: 2
+    botrytis: 2
+    botrytisTolerance: true
+    bidwellii: 2
+    bidwelliiTolerance: true
 Anbau:
-  Standortempfehlung:
-    value: '<p>Durch die eher späte Reife ist Calardis Blanc für einen Anbau auf klimatisch weniger begünstigten Standorten derzeit (2020) weniger geeignet, ebenso auf sehr flachgründigen Böden. Bei anhaltender Trockenheit ist eine Bewässerung sehr von Vorteil. Weinbaulich werden an diese Rebsorte keine besonderen Erfordernisse gestellt. Eine Teilentblätterung der Traubenzone kann zur Botrytisvermeidung beitragen, die Heftarbeiten sind vergleichbar mit Riesling. </p>'
-    sources:
-      - 36d8449a-1f6c-4b37-9f4c-e90446fe9190
-    compares: []
-  Besonderheiten:
-    value: '<p>Die Calardis Blanc Trauben werden auch in sehr trockenen und heißen Jahren kaum durch Sonnenbrand geschädigt. Aufgrund der hohen Pilzfestigkeit sowie einer geringen Attraktivität für Fraßschädlinge aufgrund der späteren Reife ist die Sorte besonders für nicht mechanisierbare Lagen geeignet. Die Sorte zeigt allgemein eine gute Vitalität, was sich durch dunkelgrünes, dichtes Laub bemerkbar macht und auf eine hohe Photosytheserate schließen lässt.</p>'
-    sources:
-      - 3a4a6a75-528f-4765-aff5-c083ff74742b
-      - 36d8449a-1f6c-4b37-9f4c-e90446fe9190
-    compares:
-      b820ced1-6a52-4f8d-9346-b70784febb62: '<p>Sonnenbrandschäden sind im Vergleich zu Riesling geringer.</p>'
-  Austrieb:
-    value:
-      - 708c7c18-1acb-4442-a1c1-7459918641c4
-    sources:
-      - 3a4a6a75-528f-4765-aff5-c083ff74742b
-    compares:
-      b820ced1-6a52-4f8d-9346-b70784febb62: '<p>Der Austriebszeitpunkt ist im Vergleich zum Riesling etwas verzögert, dies kommt der Vermeidung von Spätfrostschäden zugute. Der relativ späte Austrieb schützt zudem vor Spätfrostschäden.</p>'
-  Traubenstruktur:
-    value:
-      - c335f01a-89ac-4cb3-9c5a-ade0e76c9434
-    sources: []
-    compares: []
-  Beeren:
-    value: '<p>Die Beeren sind mittelgroß und bei Vollreife werden die voll besonnten Beeren goldgelb und zeigen bräunliche Reflexe.</p>'
-    sources: []
-    compares:
-      b820ced1-6a52-4f8d-9346-b70784febb62: ''
-  Verrieselungsneigung:
-    value:
-      - 17581ead-5b12-44e3-a4b5-2a6a4f83ebc7
-    sources: []
-    compares: []
-  Stiellähme:
-    value:
-      - 6d7acded-a524-4c85-9abc-c8aa991d282d
-    sources: []
-    compares: []
-  Reife:
-    value: '<p>Die Traube reift mittelspät bis spät, vor dem Riesling, allerdings langsamer ab 85°Oe.</p>'
-    sources: []
-    compares: []
-  Lese:
-    value: '<p>Der Lesezeitpunkt kann wegen der Botrytisfestigkeit meist nach dem Riesling erfolgen. Lesereife ist in der Regel Ende September bis Mitte Oktober. Die lange Hängzeit bei stabiler Fäulnisfestigkeit und geringem Mostgewichtsanstieg lassen ein breites Erntefenster zu. </p>'
-    sources:
-      - 3a4a6a75-528f-4765-aff5-c083ff74742b
-      - 36d8449a-1f6c-4b37-9f4c-e90446fe9190
-    compares:
-      b820ced1-6a52-4f8d-9346-b70784febb62: '<p>Der Lesezeitpunkt ist mit dem des Riesling vergleichbar</p>'
-  Ertrag:
-    value: '<p>Der potentielle Ertrag ist oft höher als bei Riesling, da kaum eine Neigung zur Verrieslung besteht und die Traubenzahl je Trieb hoch ist. Bei hoher Ertragsbelastung leiden Traubenqualität und Vitalität. Mittleres bis hohes Ertragsniveau bei guter und gleichmäßiger Ausreife der Trauben macht den Anbau wirtschaftlich, besonders in Jahren mit schlechter Blüte. Durch die hohe Fruchtbarkeit ist der Ertrag hoch und sollte nicht voll ausgereizt werden. Zudem ist die Sorte ertragskonstant, neigt also wenig zu Alternanz.</p>'
-    sources:
-      - 36d8449a-1f6c-4b37-9f4c-e90446fe9190
-    compares:
-      b820ced1-6a52-4f8d-9346-b70784febb62: '<p>Der potentielle Ertrag ist oft höher als bei Riesling, da kaum eine Neigung zur Verrieslung besteht und die Traubenzahl je Trieb hoch ist. </p>'
+  Standortempfehlung: '<p>Durch die eher späte Reife ist Calardis Blanc für einen Anbau auf klimatisch weniger begünstigten Standorten derzeit (2020) weniger geeignet, ebenso auf sehr flachgründigen Böden. Bei anhaltender Trockenheit ist eine Bewässerung sehr von Vorteil. Weinbaulich werden an diese Rebsorte keine besonderen Erfordernisse gestellt. Eine Teilentblätterung der Traubenzone kann zur Botrytisvermeidung beitragen, die Heftarbeiten sind vergleichbar mit Riesling. </p>'
+  Besonderheiten: '<p>Die Calardis Blanc Trauben werden auch in sehr trockenen und heißen Jahren kaum durch Sonnenbrand geschädigt. Aufgrund der hohen Pilzfestigkeit sowie einer geringen Attraktivität für Fraßschädlinge aufgrund der späteren Reife ist die Sorte besonders für nicht mechanisierbare Lagen geeignet. Die Sorte zeigt allgemein eine gute Vitalität, was sich durch dunkelgrünes, dichtes Laub bemerkbar macht und auf eine hohe Photosytheserate schließen lässt.</p>'
+  Austrieb: []
+  Traubenstruktur: []
+  Beeren: '<p>Die Beeren sind mittelgroß und bei Vollreife werden die voll besonnten Beeren goldgelb und zeigen bräunliche Reflexe.</p>'
+  Verrieselungsneigung: []
+  Stiellähme: []
+  Reife: '<p>Die Traube reift mittelspät bis spät, vor dem Riesling, allerdings langsamer ab 85°Oe.</p>'
+  Lese: '<p>Der Lesezeitpunkt kann wegen der Botrytisfestigkeit meist nach dem Riesling erfolgen. Lesereife ist in der Regel Ende September bis Mitte Oktober. Die lange Hängzeit bei stabiler Fäulnisfestigkeit und geringem Mostgewichtsanstieg lassen ein breites Erntefenster zu. </p>'
+  Ertrag: '<p>Der potentielle Ertrag ist oft höher als bei Riesling, da kaum eine Neigung zur Verrieslung besteht und die Traubenzahl je Trieb hoch ist. Bei hoher Ertragsbelastung leiden Traubenqualität und Vitalität. Mittleres bis hohes Ertragsniveau bei guter und gleichmäßiger Ausreife der Trauben macht den Anbau wirtschaftlich, besonders in Jahren mit schlechter Blüte. Durch die hohe Fruchtbarkeit ist der Ertrag hoch und sollte nicht voll ausgereizt werden. Zudem ist die Sorte ertragskonstant, neigt also wenig zu Alternanz.</p>'
 Ausbau:
-  Geschmack:
-    value: '<p>Die Weine zeigen eine Analogie zum fruchtigen Rieslingprofil. Sie zeichnen sich durch feinwürzige fruchtige Aromatik aus, ohne dabei einerseits flach oder andererseits säuerlich zu erscheinen. Dies liegt am moderaten Alkoholgehalt und der reifen Säure. </p>'
-    sources:
-      - 36d8449a-1f6c-4b37-9f4c-e90446fe9190
-    compares:
-      b820ced1-6a52-4f8d-9346-b70784febb62: '<p>Die Weine zeigen eine Analogie zum fruchtigen Rieslingprofil.</p>'
+  Geschmack: '<p>Die Weine zeigen eine Analogie zum fruchtigen Rieslingprofil. Sie zeichnen sich durch feinwürzige fruchtige Aromatik aus, ohne dabei einerseits flach oder andererseits säuerlich zu erscheinen. Dies liegt am moderaten Alkoholgehalt und der reifen Säure. </p>'
   'Ausbaustrategien im Einsatz':
-    value:
-      - fa696774-ff74-4bcf-ab91-f8db8a4abd0a
-      - cc742c0c-b50a-433c-bb59-5ff43671d79d
-    sources: []
-    compares: []
-  'Senorische Beschreibung':
-    value: '<p>Der Wein besitzt ein finessreiches Aroma von Maracuja, Blutorange und frisch geschnittenem Apfel gepaart mit einem zarten, feinwürzigen Bukett und zeichnet sich durch eine spritzige Säure aus, durch die er als Sektgrundwein gut geeignet ist.</p>'
-    sources:
-      - 3a4a6a75-528f-4765-aff5-c083ff74742b
-    compares: []
+    3: 'Ausbau im Barrique'
+    4: 'Einsatz als Grundwein für Schaumweinausbau'
+  'Senorische Beschreibung': '<p>Der Wein besitzt ein finessreiches Aroma von Maracuja, Blutorange und frisch geschnittenem Apfel gepaart mit einem zarten, feinwürzigen Bukett und zeichnet sich durch eine spritzige Säure aus, durch die er als Sektgrundwein gut geeignet ist.</p>'
 Anbaufläche:
-  Deutschland:
-    value: '<p>25,93 Hektar (2022)</p>'
-    sources: []
-    compares: []
+  Deutschland: '<p>25,93 Hektar (2022)</p>'
 
 ----
 

@@ -44,75 +44,26 @@ Criterias:
 
 Resistenz:
   Widerstandsfähigkeit:
-    value:
-      peronosporaTolerance: false
-      oidiumTolerance: true
-      botrytisTolerance: false
-      peronospora: 2
-      oidium: 2
-      botrytis: 2
-    sources:
-      - 3a4a6a75-528f-4765-aff5-c083ff74742b
-    compares: []
+    peronosporaTolerance: false
+    oidiumTolerance: true
+    botrytisTolerance: false
+    peronospora: 2
+    oidium: 2
+    botrytis: 2
 Anbau:
-  Besonderheiten:
-    value: null
-    sources: []
-    compares: []
-  'Wüchsigkeit ':
-    value:
-      - c6494b8f-0ffd-4550-ae75-9890ba07e474
-      - 94416a84-ec1e-48c7-8659-88af877f6379
-    sources: []
-    compares: []
-  Geiztriebbildung:
-    value: 40d5ac63-8905-4992-a8ed-d9d7115059db
-    sources: []
-    compares: []
-  Austrieb:
-    value:
-      - 634d055a-0af4-41ff-92a1-70f05f7cbe25
-    sources: []
-    compares: []
-  Traubenstruktur:
-    value:
-      - d58bb517-2e0d-4ea9-8725-d880483045d8
-    sources: []
-    compares: []
-  Beeren:
-    value: 'klein bis mittel'
-    sources: []
-    compares: []
-  Verrieselungsneigung:
-    value:
-      - acbe7b8b-e1e8-4dd1-98bf-d6346e6f0211
-    sources: []
-    compares: []
-  Stiellähme:
-    value:
-      - b1522095-2bc2-481b-8817-bd1fb6ffb11f
-    sources: []
-    compares: []
-  Reife:
-    value: mittel
-    sources: []
-    compares: []
-  Ertrag:
-    value: mittelhoch
-    sources: []
-    compares: []
+  Besonderheiten: ''
+  'Wüchsigkeit ': []
+  Geiztriebbildung: []
+  Austrieb: []
+  Traubenstruktur: []
+  Beeren: 'klein bis mittel'
+  Verrieselungsneigung: []
+  Stiellähme: []
+  Reife: mittel
+  Ertrag: mittelhoch
 Ausbau:
-  'Ausbaustrategien im Einsatz':
-    value:
-      - db1f20aa-a945-4922-95c1-500656184e2d
-      - 8c0fcbeb-5129-4936-afda-57abe230da6b
-    sources: []
-    compares: []
-  'Senorische Beschreibung':
-    value: 'Die tiefdunklen Weine sind körperreich mit einer guten Balance von Tanninen und Aromen und erinnern oft an Weine südländischer Herkunft. Charakteristisch für Regent ist der kräftige Geschmack nach dunklen Kirschen, Brombeeren, Pflaumen, Heidelbeeren und Kakao. Die Rebsorte Regent eignet sich zudem hervorragend für die Herstellung von fruchtigen Rosé-Weinen und Sekt.'
-    sources:
-      - 3a4a6a75-528f-4765-aff5-c083ff74742b
-    compares: []
+  'Ausbaustrategien im Einsatz': []
+  'Senorische Beschreibung': 'Die tiefdunklen Weine sind körperreich mit einer guten Balance von Tanninen und Aromen und erinnern oft an Weine südländischer Herkunft. Charakteristisch für Regent ist der kräftige Geschmack nach dunklen Kirschen, Brombeeren, Pflaumen, Heidelbeeren und Kakao. Die Rebsorte Regent eignet sich zudem hervorragend für die Herstellung von fruchtigen Rosé-Weinen und Sekt.'
 
 ----
 

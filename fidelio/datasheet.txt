@@ -44,12 +44,9 @@ Criterias:
 
 Resistenz:
   Widerstandsfähigkeit:
-    value:
-      peronospora: 2
-      oidium: 2
-      botrytis: 3
-    sources: []
-    compares: []
+    peronospora: 2
+    oidium: 2
+    botrytis: 3
 
 ----
 

@@ -38,46 +38,18 @@ Criterias:
 
 Resistenz:
   Widerstandsfähigkeit:
-    value:
-      oidium: 3
-      botrytis: 3
-      peronospora: 2
-    sources: []
-    compares: []
+    oidium: 3
+    botrytis: 3
+    peronospora: 2
 Anbau:
-  'Wüchsigkeit ':
-    value:
-      - 4b3018cf-d800-4d61-b1c8-2da11315f7a1
-    sources: []
-    compares: []
-  Geiztriebbildung:
-    value: 8fbbc639-b7b1-4bba-be46-0e52c77ae419
-    sources: []
-    compares: []
-  Austrieb:
-    value: null
-    sources: []
-    compares: []
-  Blatt:
-    value: null
-    sources: []
-    compares: []
-  Traube:
-    value: null
-    sources: []
-    compares: []
-  Beeren:
-    value: null
-    sources: []
-    compares: []
-  Reife:
-    value: null
-    sources: []
-    compares: []
-  Blüte:
-    value: null
-    sources: []
-    compares: []
+  'Wüchsigkeit ': []
+  Geiztriebbildung: []
+  Austrieb: []
+  Blatt: ''
+  Traube: ''
+  Beeren: ''
+  Reife: ''
+  Blüte: ''
 
 ----
 
