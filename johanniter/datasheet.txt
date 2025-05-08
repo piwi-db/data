@@ -40,7 +40,34 @@ Cover: - 'file://MEHKS8ErjT2u2Yvi'
 
 ----
 
-Criterias: []
+Criterias:
+
+Resistenz:
+  'Widerstandsfähigkeit nach Züchter':
+    peronospora: 2
+    oidium: 2
+    botrytis: 2
+  'Anfälligkeit für Peronospora nach OIV-Skalierung': '<p>sehr gering bis gering</p>'
+  'Anfälligkeit für Oidium nach OIV-Skalierung': '<p>gering</p>'
+  'Anfälligkeit für Botrytis nach OIV-Skalierung': '<p>gering bis mittel</p>'
+Anbau:
+  Standortempfehlung: ''
+  PSM: ''
+  Besonderheiten: '<p>empfindlich gegenüber Spätfrost im Frühjahr</p>'
+  'Wüchsigkeit ': '<p>mittel</p>'
+  Geiztriebbildung: '<p>mittel</p>'
+  Austrieb: '<p>früh</p>'
+  Blatt: '<p>mittel</p>'
+  Traubengröße: '<p>mittel</p>'
+  Traubenstruktur: '<p>dicht bis sehr dicht</p>'
+  Beeren: '<p>klein bis mittel und mittelstarke Beerenhautstabilität, kugelförmig</p>'
+  Verrieselungsneigung: '<p>sehr gering bis gering</p>'
+  Stiellähme: '<p>gering</p>'
+  Reife: '<p>mittel bis spät</p>'
+  Ertrag: '<p>hoch</p>'
+  Blütezeitpunkt: '<p>früh bis mittel</p>'
+Ausbau:
+  'Senorische Beschreibung': '<p>Die Weine sind kräftig und fruchtig, zwischen Grauburgunder und Riesling. Die Säure ist eher weich. Der Wein hat pikante Noten von Melone und Birne oder Mandarine. Junge Weinberge zeigen deutlich ausgeprägte Jahrgangsunterschiede. Bei der Verarbeitung sollte Säureschonend gearbeitet werden.</p>'
 
 ----
 

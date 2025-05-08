@@ -43,27 +43,34 @@ Cover: - 'file://70w8nHu4nBU0fN2V'
 Criterias:
 
 Resistenz:
-  Widerstandsfähigkeit:
+  'Widerstandsfähigkeit nach Züchter':
     peronosporaTolerance: false
     oidiumTolerance: true
     botrytisTolerance: false
     peronospora: 2
     oidium: 2
     botrytis: 2
+  'Anfälligkeit für Peronospora nach OIV-Skalierung': '<p>gering</p>'
+  'Anfälligkeit für Oidium nach OIV-Skalierung': '<p>gering</p>'
+  'Anfälligkeit für Botrytis nach OIV-Skalierung': '<p>gering bis mittel</p>'
 Anbau:
-  Besonderheiten: ''
-  'Wüchsigkeit ': []
-  Geiztriebbildung: []
-  Austrieb: []
-  Traubenstruktur: []
+  Standortempfehlung: '<p>Regent ist für mittlere bis gute Lagen geeignet. Die Ansprüche an den Boden sind eher hoch (Magnesiumbedarf hoch).  Aufgrund der Blüteanfälligkeit und der vorhandenen Verrieselungsneigung sollten kalte, windoffene Lagen eher gemieden werden.</p>'
+  Besonderheiten: '<p>Hohe Winterfrostfestigkeit bei einem leicht verzögerten Austrieb. </p>'
+  'Wüchsigkeit ': '<p>mittel</p>'
+  Geiztriebbildung: '<p>mittel</p>'
+  Austrieb: '<p>eher spät</p>'
+  Traubenstruktur: '<p>mittel</p>'
   Beeren: 'klein bis mittel'
-  Verrieselungsneigung: []
-  Stiellähme: []
+  Verrieselungsneigung: '<p>gering bis mittel</p>'
+  Stiellähme: '<p>gering</p>'
   Reife: mittel
-  Ertrag: mittelhoch
+  Ertrag: '<p>mittel</p>'
+  Blütezeitpunkt: '<p>früh bis mittel</p>'
 Ausbau:
-  'Ausbaustrategien im Einsatz': []
-  'Senorische Beschreibung': 'Die tiefdunklen Weine sind körperreich mit einer guten Balance von Tanninen und Aromen und erinnern oft an Weine südländischer Herkunft. Charakteristisch für Regent ist der kräftige Geschmack nach dunklen Kirschen, Brombeeren, Pflaumen, Heidelbeeren und Kakao. Die Rebsorte Regent eignet sich zudem hervorragend für die Herstellung von fruchtigen Rosé-Weinen und Sekt.'
+  'Ausbaustrategien im Einsatz': '<p>Herstellung von Roséweinen, Einsatz als Grundwein für Schaumweinausbau</p>'
+  'Senorische Beschreibung': '<p>Die tiefdunklen Weine sind körperreich mit einer guten Balance von Tanninen und Aromen und erinnern oft an Weine südländischer Herkunft. Charakteristisch für Regent ist der kräftige Geschmack nach dunklen Kirschen, Brombeeren, Pflaumen, Heidelbeeren und Kakao. </p>'
+Anbaufläche:
+  Deutschland: '<p>1.618 Hektar (2022)</p>'
 
 ----
 

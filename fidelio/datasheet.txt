@@ -43,10 +43,25 @@ Cover: - 'file://0KMUS7mj4SrOg8fy'
 Criterias:
 
 Resistenz:
-  Widerstandsfähigkeit:
+  'Widerstandsfähigkeit nach Züchter':
     peronospora: 2
     oidium: 2
     botrytis: 3
+Anbau:
+  Standortempfehlung: ''
+  PSM: ''
+  Besonderheiten: ''
+  'Wüchsigkeit ': '<p>stark</p>'
+  Geiztriebbildung: '<p>mittel</p>'
+  Austrieb: '<p>früh bis mittel</p>'
+  Traubenstruktur: '<p>locker und länglich</p>'
+  Beeren: '<p>mittel bis groß, robuste Beerenhaut</p>'
+  Verrieselungsneigung: '<p>gering</p>'
+  Stiellähme: '<p>gering</p>'
+  Reife: '<p>mittel bis spät</p>'
+  Ertrag: '<p>hoch</p>'
+Ausbau:
+  'Senorische Beschreibung': '<p>Fideliotrauben besitzen eine animierende Säurestruktur und eignen sich als Basis für die Schaumweinbereitung. In den Weinen dominieren Aromen von grünem Apfel, Stachelbeere mit vegetativen Komponenten und Anflügen von blumigen sowie exotischen Nuancen.</p>'
 
 ----
 

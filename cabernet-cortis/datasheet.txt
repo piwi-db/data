@@ -46,10 +46,30 @@ Cover: - 'file://b5nNQKk3xBwUPJ2i'
 Criterias:
 
 Resistenz:
-  Widerstandsfähigkeit:
+  'Widerstandsfähigkeit nach Züchter':
     peronospora: 3
     oidium: 3
     botrytis: 3
+  'Anfälligkeit für Peronospora nach OIV-Skalierung': '<p>sehr gering bis gering</p>'
+  'Anfälligkeit für Oidium nach OIV-Skalierung': '<p>gering</p>'
+  'Anfälligkeit für Botrytis nach OIV-Skalierung': '<p>gering bis mittel</p>'
+Anbau:
+  Standortempfehlung: ''
+  PSM: ''
+  Besonderheiten: ''
+  'Wüchsigkeit ': '<p>mittel bis stark</p>'
+  Geiztriebbildung: '<p>gering bis mittel</p>'
+  Austrieb: '<p>früh</p>'
+  Traubengröße: '<p>dicht bis mittel</p>'
+  Traubenstruktur: '<p>mittel, länglich</p>'
+  Beeren: '<p>klein bis mittel, rund und robuste Beerenhaut</p>'
+  Verrieselungsneigung: '<p>gering</p>'
+  Stiellähme: '<p>gering bis mittel</p>'
+  Reife: '<p>früh</p>'
+  Ertrag: '<p>mittel</p>'
+  Blütezeitpunkt: '<p>früh bis mittel</p>'
+Ausbau:
+  'Senorische Beschreibung': '<p>In Geruch und Geschmack würzig-kräutrige und tanninreiche Rotweine mit Aromen von schwarzem Pfeffer, Rosenpaprika und schwarzen Beerenfrüchten. Auch sehr gut für Roséweine mit mediterraner, fruchtig-würziger Stilistik geeignet.</p>'
 
 ----
 

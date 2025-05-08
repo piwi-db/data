@@ -39,20 +39,35 @@ Resistanceloci:
 
 ----
 
-Cover: - 'file://H3Dgc26IuFMEp4KH'
+Cover:
+
+- 'file://H3Dgc26IuFMEp4KH'
+- 'file://J9cfCLEZLld4Ftrd'
 
 ----
 
 Criterias:
 
 Resistenz:
-  Widerstandsfähigkeit:
-    peronosporaTolerance: true
-    oidiumTolerance: true
-    botrytisTolerance: true
-    peronospora: 2
+  'Widerstandsfähigkeit nach Züchter':
+    peronosporaTolerance: false
+    oidiumTolerance: false
+    botrytisTolerance: false
+    peronospora: 3
+    oidium: 3
+    botrytis: 3
 Anbau:
-  'Wüchsigkeit ': []
+  Besonderheiten: '<p>Spätfrostempfindlich im Frühjahr</p>'
+  'Wüchsigkeit ': '<p>mittel</p>'
+  Geiztriebbildung: '<p>mittel</p>'
+  Austrieb: '<p>spät</p>'
+  Traubenstruktur: '<p>locker</p>'
+  Beeren: '<p>mittel, dicke Beerenhaut</p>'
+  Verrieselungsneigung: '<p>gering</p>'
+  Stiellähme: '<p>gering</p>'
+  Reife: '<p>spät</p>'
+Ausbau:
+  'Senorische Beschreibung': '<p>Diese Sorte lässt Spielraum für die sensorische Ausprägung im Wein. Je nach Reifegrad, Ausbaustil und Hefeeinsatz lehnt sich die Sorte an Riesling-Aromen nach Aprikose und reifer Apfel oder zeigt das Bouquet von Limonen und dezenter schwarzer Johannisbeere der Scheurebe. Typisch ist eine stabile Säure, die sowohl über die Traubenreife am Stock als auch während der Flaschenreife lebendig bleibt.</p>'
 
 ----
 

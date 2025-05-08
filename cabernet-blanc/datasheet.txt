@@ -43,52 +43,46 @@ Cover: - 'file://bcjW8LGoJudUMUKv'
 Criterias:
 
 Resistenz:
-  Widerstandsfähigkeit:
+  'Widerstandsfähigkeit nach Züchter':
     peronosporaTolerance: false
     peronospora: 3
     oidiumTolerance: false
     oidium: 2
     botrytisTolerance: false
     botrytis: 3
-  Anfälligkeitsstadien: []
-  Traube: ''
-  Blatt: ''
+  'Anfälligkeit für Peronospora nach OIV-Skalierung': '<p>gering bis mittel</p>'
+  'Anfälligkeit für Oidium nach OIV-Skalierung': '<p>gering bis mittel</p>'
+  'Anfälligkeit für Botrytis nach OIV-Skalierung': '<p>sehr gering bis gering</p>'
 Anbau:
-  Standortempfehlung: ''
-  PSM: |
-    In guten Jahren sind 2 Behandlungen, in schwierigen Jahren bis 6 Behandlungen notwendig (siehe auch Widerstandsfähigkeit).
-  Besonderheiten: ''
-  'Wüchsigkeit ': []
-  Geiztriebbildung: []
-  Austrieb: []
-  Blatt: '<p>Ein typisches Cabernet Sauvignon Blatt, da fünfeckig mit 5 Lappen. </p>'
-  Traube: '<p>Die Traube ist groß, geschultert, sehr lockerbeerig, luftig und leicht abtrocknend, was sich positiv auf die Widerstandsfähigkeit gegen Botrytis auswirkt.  </p>'
-  Traubenstruktur: []
-  Beeren: '<p>Die Weinbeeren sind klein und rund, gemischtbeerig, d.h. normalgroße und jungfernfrüchtige Beeren befinden sich nebeneinander. Durch dieses Verrieseln sind die Rispen sehr lockerbeerig, was sich positiv auf die Botrytisresistenz auswirkt. Die Beeren sind nahezu kernlos und besonders die kernlosen Beeren weisen einen sehr hohen Zuckergehalt auf. Vor der vollständigen Reife sind die Beeren dunkelgrün und wirken lange unreif.  Bei Beginn der Reife, ca. Anfang Oktober, färben sich die Früchte gelb. Beerengröße eher klein, je nach Jahrgang vier Jungfernfrüchte. </p>'
-  Verrieselungsneigung: []
-  Stiellähme: []
-  Reife: '<p>Bis zur vollständigen Reife sind die Beeren dunkelgrün und wirken lange unreif.  Erst bei Beginn der Endreife, ca. Anfang Oktober färben sie sich gelb. </p>'
-  Lese: '<p>Diese Rebsorte eignet sich aufgrund ihrer überdurchschnittlichen dicken Beerenhäute für einen späten Lesezeitpunkt.  Jung bzw. mittelreif gelesen, ermöglicht die Beeren dieser Rebsorte grün-grasige bzw. vegetabile Aromen, dazu kommen auch Aromen von Stachelbeere und/oder Artischocke. Vollreif gelesen, zeigt die Sorte gern exotische Früchte wie Maracuja oder Litschi. </p>'
+  Standortempfehlung: '<p>Für Sauvignon Blanc Stilistik sollte auf leichtem Boden mit hohem Kalkgehalt gepflanzt werden</p>'
+  PSM: '<p>In guten Jahren sind 2, in schwierigen bis zu 6 Behandlungen notwendig. </p>'
+  Besonderheiten: '<p>Kräftiger, aufrechter Wuchs, verträgt Trockenheit, gute Winterfrosthärte. </p>'
+  'Wüchsigkeit ': '<p>stark</p>'
+  Geiztriebbildung: '<p>mittel bis stark</p>'
+  Austrieb: '<p>eher früh</p>'
+  Blatt: '<p>typisches Cabernet Sauvignon Blatt, da fünfeckig mit 5 Lappen</p>'
+  Traubengröße: '<p>groß, geschultert, luftig und leicht abtrocknend   </p>'
+  Traubenstruktur: '<p>locker</p>'
+  Beeren: '<p>eher klein und rund, locker- und gemischtbeerig - normalgroße und jungfernfrüchtige Beeren befinden sich nebeneinander. Sie sind nahezu kernlos. Vor der vollständigen Reife sind sie dunkelgrün und wirken lange unreif.  Bei Beginn der Reife, ca. Anfang Oktober, färben sie sich gelb. Je nach Jahrgang vier Jungfernfrüchte. </p>'
+  Verrieselungsneigung: '<p>hoch</p>'
+  Stiellähme: '<p>mittel</p>'
+  Reife: '<p>mittelspät bis spät - Oktober</p>'
+  Lese: '<p>Aufgrund der dicken Beerenhäute für späten Lesezeitpunkt geeignet. Jung bzw. mittelreif gelesen sind grün-grasige,  vegetabile Aromen und Aromen von Stachelbeere und/oder Artischocke möglich. Vollreif gelesen, überwiegen exotische Aromen wie Maracuja oder Litschi. </p>'
   Ertrag: |-
     Wegen der starken Verrieselungsneigung können die Erträge je nach Standort sehr unterschiedlich sein.
     Ertragsreduzierungen sollten bis nach der Blüte abgewartet werden, um sich am "sichtbaren" Ertragsniveau zu orientieren.
-  'Sonstige Angaben': 'Die Winterfrostigkeit ist sehr gut - vergleichbar mit Riesling.'
-  Blüte: ''
+  Blütezeitpunkt: '<p>früh bis mittel</p>'
 Ausbau:
-  Säure: ''
-  Geschmack: '<p>Der Geschmack ist häufig mit Riesling und Sauvignon Blanc vergleichbar.</p>'
-  'Ausbaustrategien im Einsatz': []
-  Weinstil: |
-    Exotische oder grüne Note möglich
+  Säure: '<p>frische Säurestruktur</p>'
+  Geschmack: '<p>vergleichbar mit Riesling und Sauvignon Blanc</p>'
+  Weinstil: '<p>exotische oder grüne Note möglich</p>'
   'Oenologische Stilistik': '<p>Für eine grüne Note: längere Standzeit der Maische, dadurch Förderung der grünen Paprikanote (Pyrazine). Für eine exotische Note: Zugabe von Antioxidationsmitteln wie SO2 und Ascorbinsäure, da Thiole oxidationsanfällig sind. Vergären mit einem Hefestamm, der Thiole freisetzt; dadurch Förderung der exotischen Note. </p>'
   'Senorische Beschreibung': |
     Der Wein erinnert schon im Duft an einen eleganten Sauvignon Blanc. Bei mittlere Reife gelesen und reduktiv im Stahltank ausgebaut, zeigen die Weine eine vegetabile, würzige Aromatik von grünem Gras, Stachelbeere, Artischocke, schwarzer Johannisbeere und rauchigen Aromen. Erreichen die Trauben Vollreife, ist die Sensorik von reifer Maracuja, Litschi, roter Paprika und würzigen Wiesenkräutern geprägt.
 Rebschulen:
   Deutschland: '<p>Rebschule Freytag, 67435 Neustadt/Wstr.; Antes Weinbau-Service GmbH, 64646 Heppenheim;</p>'
-  Österreich: ''
 Anbaufläche:
   Deutschland: '<p>260 Hektar (2022), 335 Hektar (2025)</p>'
-  Europa: []
 
 ----
 

@@ -1,0 +1,74 @@
+Title: Bronner
+
+----
+
+Hybridization: Merzling, Gm6494
+
+----
+
+Hybridizationyear: 
+
+----
+
+Grower: 
+
+----
+
+Cpvrde: 
+
+----
+
+Cpvreu: 
+
+----
+
+Resistanceloci:
+
+-
+  gene: rpv
+  loci: 3.3
+-
+  gene: rpv
+  loci: 10.0
+-
+  gene: ren
+  loci: 3.0
+-
+  gene: ren
+  loci: 9.0
+-
+  gene: rgb
+  loci: ''
+
+----
+
+Cover: - 'file://9a1rKpJ1VAJY9hoU'
+
+----
+
+Criterias:
+
+Resistenz:
+  'Widerstandsfähigkeit nach Züchter':
+    peronospora: 3
+    oidium: 3
+    botrytis: 3
+  'Anfälligkeit für Peronospora nach OIV-Skalierung': '<p>sehr gering bis gering</p>'
+  'Anfälligkeit für Oidium nach OIV-Skalierung': '<p>gering bis mittel</p>'
+  'Anfälligkeit für Botrytis nach OIV-Skalierung': '<p>gering</p>'
+Anbau:
+  'Wüchsigkeit ': '<p>mittel</p>'
+  Geiztriebbildung: '<p>schwach bis mittel</p>'
+  Austrieb: '<p>mittel</p>'
+  Traubengröße: '<p>groß</p>'
+  Traubenstruktur: '<p>dicht</p>'
+  Beeren: '<p>klein bis mittel, dicke Beerenhaut</p>'
+  Verrieselungsneigung: '<p>gering bis mittel</p>'
+  Stiellähme: '<p>gering</p>'
+  Reife: '<p>mittel</p>'
+  Ertrag: '<p>hoch</p>'
+  Blütezeitpunkt: '<p>früh bis mittel</p>'
+
+----
+
+Uuid: afAyx2x701NXIPJy

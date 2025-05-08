@@ -1,0 +1,48 @@
+Title: Allegro
+
+----
+
+Hybridization: Chancellor (Seibel 7053), Rondo
+
+----
+
+Hybridizationyear: 1983
+
+----
+
+Grower: <p>Geisenheimer Kreuzung</p>
+
+----
+
+Cpvrde: 2009
+
+----
+
+Cpvreu: 
+
+----
+
+Resistanceloci: []
+
+----
+
+Cover: - 'file://p9XQxOqlzX3jBa8Z'
+
+----
+
+Criterias:
+
+Resistenz:
+  'Widerstandsfähigkeit nach Züchter':
+    peronospora: 3
+    oidium: 4
+  'Anfälligkeit für Peronospora nach OIV-Skalierung': '<p>gering</p>'
+  'Anfälligkeit für Oidium nach OIV-Skalierung': '<p>gering</p>'
+  'Anfälligkeit für Botrytis nach OIV-Skalierung': '<p>gering</p>'
+Anbau:
+  PSM: '<p>Bis auf Extremjahre kann auf Pflanzenschutz verzichtet werden. </p>'
+  'Wüchsigkeit ': '<p>mittel</p>'
+
+----
+
+Uuid: jrm5oAXRjLWaE53W

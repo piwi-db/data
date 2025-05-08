@@ -2,7 +2,7 @@ Title: Souvignier Gris
 
 ----
 
-Hybridization: Seyval Blanc, Zähringer
+Hybridization: Seyval Blanc, Zaehringer
 
 ----
 
@@ -40,7 +40,36 @@ Cover: - 'file://cfQd4ZJrL0UB1liY'
 
 ----
 
-Criterias: []
+Criterias:
+
+Resistenz:
+  'Widerstandsfähigkeit nach Züchter':
+    peronospora: 3
+    oidium: 3
+    botrytis: 4
+  'Anfälligkeit für Peronospora nach OIV-Skalierung': '<p>sehr gering bis gering</p>'
+  'Anfälligkeit für Oidium nach OIV-Skalierung': '<p>gering</p>'
+  'Anfälligkeit für Botrytis nach OIV-Skalierung': '<p>sehr gering bis gering</p>'
+Anbau:
+  Standortempfehlung: ''
+  PSM: ''
+  Besonderheiten: ''
+  'Wüchsigkeit ': '<p>mittel bis stark</p>'
+  Geiztriebbildung: '<p>schwach bis mittel</p>'
+  Austrieb: '<p>spät</p>'
+  Traubengröße: '<p>mittel</p>'
+  Traubenstruktur: '<p>mittel bis dicht, länglich</p>'
+  Beeren: '<p>klein bis mittel</p>'
+  Verrieselungsneigung: '<p>sehr gering</p>'
+  Stiellähme: '<p>sehr gering</p>'
+  Reife: '<p>mittel, Beeren bei Reife grau-braun</p>'
+  Blütezeitpunkt: '<p>früh bis mittel</p>'
+Ausbau:
+  'Ausbaustrategien im Einsatz': '<p>zur Versektung geeignet</p>'
+  'Senorische Beschreibung': '<p>Souvignier Gris kann als neutraler, kräftig-stoffiger, saftiger Weintyp bis hin zu ausgeprägt fruchtigen, thiolgeprägten Weinen mit stabiler Säure ausgebaut werden.</p>'
+Anbaufläche:
+  Deutschland: '<p>388 Hektar (2023)</p>'
+  Frankreich: '<p>365 Hektar (2021)</p>'
 
 ----
 

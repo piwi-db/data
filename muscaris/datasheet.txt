@@ -40,7 +40,33 @@ Cover: - 'file://C2JrKQkt1uQVqtNG'
 
 ----
 
-Criterias: []
+Criterias:
+
+Resistenz:
+  'Widerstandsfähigkeit nach Züchter':
+    peronospora: 3
+    oidium: 2
+    botrytis: 3
+  'Anfälligkeit für Peronospora nach OIV-Skalierung': '<p>sehr gering bis gering</p>'
+  'Anfälligkeit für Oidium nach OIV-Skalierung': '<p>gering</p>'
+  'Anfälligkeit für Botrytis nach OIV-Skalierung': '<p>gering bis mittel</p>'
+Anbau:
+  Standortempfehlung: ''
+  PSM: ''
+  Besonderheiten: '<p>empfindlich gegenüber Spätfrost im Frühjahr</p>'
+  'Wüchsigkeit ': '<p>mittel bis stark</p>'
+  Geiztriebbildung: '<p>mittel bis stark</p>'
+  Austrieb: '<p>früh</p>'
+  Traubengröße: '<p>mittel, dicke Beerenhaut</p>'
+  Traubenstruktur: '<p>locker, länglich, wenig geschultert</p>'
+  Beeren: '<p>klein bis mittel, dicke Beerenhaut</p>'
+  Verrieselungsneigung: '<p>gering</p>'
+  Stiellähme: '<p>gering</p>'
+  Reife: '<p>früh</p>'
+  Ertrag: '<p>hoch</p>'
+  Blütezeitpunkt: '<p>früh</p>'
+Ausbau:
+  'Senorische Beschreibung': '<p>Intensiv bukettierte Weine, geprägt von exotischen Fruchtnuancen wie Mango, Litschi und Zitrus. Je nach Ausbau auch florale Aromen mit leicht rauchigem Nachhall. Aufgrund des frühen hohen Mostgewichtes gut für Dessertweine geeignet. Für trockene Weine bei max. 90 °Oe lesen, um Aromaverluste zu vermeiden.</p>'
 
 ----
 

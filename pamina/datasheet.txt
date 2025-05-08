@@ -46,10 +46,22 @@ Cover: - 'file://ckAUciWx6H2AiSXz'
 Criterias:
 
 Resistenz:
-  Widerstandsfähigkeit:
+  'Widerstandsfähigkeit nach Züchter':
     peronospora: 3
     oidium: 3
     botrytis: 3
+Anbau:
+  'Wüchsigkeit ': '<p>mittel</p>'
+  Geiztriebbildung: '<p>mittel</p>'
+  Austrieb: '<p>früh bis mittel</p>'
+  Traubenstruktur: '<p>locker</p>'
+  Beeren: '<p>groß und rund, robuste Beerenhaut</p>'
+  Verrieselungsneigung: '<p>gering</p>'
+  Stiellähme: '<p>gering</p>'
+  Reife: '<p>mittel</p>'
+  Ertrag: '<p>hoch</p>'
+Ausbau:
+  'Senorische Beschreibung': '<p>Die Weine der Rebsorte Pamina sind dezent, feinfruchtig mit lebendiger Säure. Sie sind dem Weißburgunder ähnlich und erinnern an Birne und Karamell.</p>'
 
 ----
 

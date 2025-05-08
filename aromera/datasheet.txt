@@ -1,0 +1,43 @@
+Title: Aromera
+
+----
+
+Hybridization: Muskat Ottonel, Eger 2
+
+----
+
+Hybridizationyear: 
+
+----
+
+Grower: 
+
+----
+
+Cpvrde: 
+
+----
+
+Cpvreu: 
+
+----
+
+Resistanceloci: []
+
+----
+
+Cover: - 'file://09p3VDm6KLlrEh2o'
+
+----
+
+Criterias:
+
+Resistenz:
+  'Widerstandsfähigkeit nach Züchter': ''
+  'Anfälligkeit für Peronospora nach OIV-Skalierung': '<p>sehr gering bis gering</p>'
+  'Anfälligkeit für Oidium nach OIV-Skalierung': '<p>gering bis mittel</p>'
+  'Anfälligkeit für Botrytis nach OIV-Skalierung': '<p>gering bis mittel</p>'
+
+----
+
+Uuid: 8w4EStCyyMt6pVg3

@@ -38,7 +38,10 @@ Resistanceloci:
   loci: 3.3
 -
   gene: rgb
-  loci: ''
+  loci: 1.0
+-
+  gene: rgb
+  loci: 2.0
 
 ----
 
@@ -49,7 +52,7 @@ Cover: - 'file://au5oUrjT4Y8aCp5h'
 Criterias:
 
 Resistenz:
-  Widerstandsfähigkeit:
+  'Widerstandsfähigkeit nach Züchter':
     peronospora: 2
     peronosporaTolerance: false
     oidium: 2
@@ -58,7 +61,29 @@ Resistenz:
     botrytisTolerance: true
     bidwellii: 2
     bidwelliiTolerance: true
-  Anfälligkeitsstadien: []
+  Traube: '<p>Trauben sind widerstandsfähiger gegen Peronospora als die Blätter</p>'
+  'Anfälligkeit für Peronospora nach OIV-Skalierung': '<p>sehr gering bis gering</p>'
+  'Anfälligkeit für Oidium nach OIV-Skalierung': '<p>gering</p>'
+  'Anfälligkeit für Botrytis nach OIV-Skalierung': '<p>gering bis mittel</p>'
+Anbau:
+  Standortempfehlung: ''
+  PSM: ''
+  Besonderheiten: ''
+  'Wüchsigkeit ': '<p>mittel</p>'
+  Geiztriebbildung: '<p>mittel bis stark</p>'
+  Austrieb: '<p>eher spät</p>'
+  Blatt: '<p>mittel bis groß</p>'
+  Traubengröße: '<p>groß</p>'
+  Traubenstruktur: '<p>dicht</p>'
+  Beeren: '<p>mittel bis groß, kugelförmig</p>'
+  Verrieselungsneigung: '<p>gering</p>'
+  Stiellähme: '<p>gering</p>'
+  Reife: '<p>früh</p>'
+  Lese: '<p>früh</p>'
+  Ertrag: '<p>hoch</p>'
+  Blütezeitpunkt: '<p>mittel</p>'
+Ausbau:
+  'Senorische Beschreibung': '<p>Sensorisch steht Felicia für einen leichten, feinfruchtigen Weintyp mit einer harmonischen Säure. Das Bukett ist geprägt von zarten, floralen und fruchtigen Aromen, wie grüner Apfel, Aprikose und Banane, die in manchen Jahren mit einem dezenten, angenehmen Muskatton kombiniert sind. </p>'
 
 ----
 

@@ -46,11 +46,29 @@ Cover: - 'file://qB615e8BrWDrxi7T'
 Criterias:
 
 Resistenz:
-  Widerstandsfähigkeit:
+  'Widerstandsfähigkeit nach Züchter':
     peronospora: 3
     oidium: 2
     oidiumTolerance: true
     botrytis: 4
+  'Anfälligkeit für Peronospora nach OIV-Skalierung': '<p>sehr gering bis gering</p>'
+  'Anfälligkeit für Oidium nach OIV-Skalierung': '<p>gering bis mittel</p>'
+  'Anfälligkeit für Botrytis nach OIV-Skalierung': '<p>sehr gering bis gering</p>'
+Anbau:
+  Besonderheiten: '<p>aufrechter Wuchs mit wenig Ranken</p>'
+  'Wüchsigkeit ': '<p>mittel bis stark</p>'
+  Geiztriebbildung: '<p>mittel bis stark</p>'
+  Austrieb: '<p>mittel</p>'
+  Traubengröße: '<p>mittel</p>'
+  Traubenstruktur: '<p>locker bis mittel, länglich</p>'
+  Beeren: '<p>klein bis mittel</p>'
+  Verrieselungsneigung: '<p>gering bis mittel</p>'
+  Stiellähme: '<p>gering</p>'
+  Reife: '<p>mittel</p>'
+  Ertrag: '<p>mittel</p>'
+  Blütezeitpunkt: '<p>früh bis mittel</p>'
+Ausbau:
+  'Senorische Beschreibung': '<p>Weine der Sorte Sauvitage zeigen eine exotisch-frische Aromatik mit harmonischem Charakter. Reiffruchtige Sauvignon Blanc-Aromen, wie z.B. Stachelbeere verbinden sich mit einer milden, harmonischen Säure.</p>'
 
 ----
 

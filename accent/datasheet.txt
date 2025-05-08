@@ -10,7 +10,7 @@ Hybridizationyear: 1982
 
 ----
 
-Grower: 
+Grower: <p>HGU, Geisenheim</p>
 
 ----
 
@@ -25,8 +25,11 @@ Cpvreu:
 Resistanceloci:
 
 -
-  gene: ''
-  loci: ''
+  gene: ren
+  loci: 3.0
+-
+  gene: ren
+  loci: 9.0
 
 ----
 
@@ -37,19 +40,22 @@ Cover: - 'file://UiEdKp1BaVjZu3Bq'
 Criterias:
 
 Resistenz:
-  Widerstandsfähigkeit:
+  'Widerstandsfähigkeit nach Züchter':
     oidium: 3
     botrytis: 3
     peronospora: 2
+  'Anfälligkeit für Peronospora nach OIV-Skalierung': '<p>gering</p>'
+  'Anfälligkeit für Oidium nach OIV-Skalierung': '<p>gering bis mittel</p>'
+  'Anfälligkeit für Botrytis nach OIV-Skalierung': '<p>gering</p>'
 Anbau:
-  'Wüchsigkeit ': []
-  Geiztriebbildung: []
-  Austrieb: []
+  'Wüchsigkeit ': '<p>mittel</p>'
+  Geiztriebbildung: '<p>mittel</p>'
+  Austrieb: ''
   Blatt: ''
-  Traube: ''
+  Traubengröße: ''
   Beeren: ''
   Reife: ''
-  Blüte: ''
+  Blütezeitpunkt: ''
 
 ----
 

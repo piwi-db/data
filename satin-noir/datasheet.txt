@@ -43,7 +43,7 @@ Cover: - 'file://PlDu4UJoFjGXdtQF'
 Criterias:
 
 Resistenz:
-  Widerstandsfähigkeit:
+  'Widerstandsfähigkeit nach Züchter':
     peronospora: 3
     oidium: 3
     botrytis: 2

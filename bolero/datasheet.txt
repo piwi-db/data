@@ -1,0 +1,49 @@
+Title: Bolero
+
+----
+
+Hybridization: Rotberger , Reichensteiner, Chancellor (Seibel 7053)
+
+----
+
+Hybridizationyear: 1982
+
+----
+
+Grower: <p>Helmut Becker, HGU Geisenheim</p>
+
+----
+
+Cpvrde: 2009
+
+----
+
+Cpvreu: 
+
+----
+
+Resistanceloci:
+
+-
+  gene: ren
+  loci: 3.0
+-
+  gene: ren
+  loci: 9.0
+
+----
+
+Cover: - 'file://nYvpsSARtax6oxCC'
+
+----
+
+Criterias:
+
+Resistenz:
+  'Anfälligkeit für Peronospora nach OIV-Skalierung': '<p>gering</p>'
+  'Anfälligkeit für Oidium nach OIV-Skalierung': '<p>gering</p>'
+  'Anfälligkeit für Botrytis nach OIV-Skalierung': '<p>gering bis mittel</p>'
+
+----
+
+Uuid: R7rxZhkXKIld4m7x
